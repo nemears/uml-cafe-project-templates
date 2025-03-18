@@ -51,11 +51,11 @@ Package:
                           id: 4Tize6jbCmObf93emecyjJFvRjo3
                           name: resolution
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "vPz&2oo5fcDnYA0y7Oc6wSeTeln9"
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "Gupb&2wDfLEh4miy1e&w44rEkQCi"
                               value: 1
                           type: "real_aZG&w6yl61bXVWutgeyScN9"
@@ -67,11 +67,11 @@ Package:
                           id: "6CjufML0&O3S4cmtN2cL44BYr8HL"
                           name: documentation
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: qCqz_QiYfuHMjCWsCm4iPuB72AFG
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: YCXK_XIcbr8rbWGNcoyD8JegQ93E
                               value: 1
                           type: "string_L&R5eAEq6f3LUNtUmzHzT"
@@ -82,11 +82,11 @@ Package:
                           id: CN7vzxOOpQJkGS964DTMuDWQkLlz
                           name: name
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "4sV_&79yAn8LCzK9bzMmtV_upesA"
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: LSxb_Y8GRR0nxeax9A3afJLrIwzg
                               value: 1
                           type: "string_L&R5eAEq6f3LUNtUmzHzT"
@@ -102,11 +102,11 @@ Package:
                           id: oIynXarLxYM2tyxSo9RNJydH0772
                           name: styledElement
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "SUtZNJKYxkZiUzXS9&z7PdG1o38B"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "w5&LRh0e_PaHKGLULxNmsbiL84LU"
                               value: 1
                           aggregation: composite
@@ -119,11 +119,11 @@ Package:
                           id: "iCzFDMlcF8uiym&MT3CRG95BlCiZ"
                           name: fillColor
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "BT2lem6OUGmOTu&QY3ypBdjsTj5s"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "PCsnXFxXITOVvfTlWXgIwafiy&c_"
                               value: 1
                           type: "&5o9ZnljHgKF9lt&AP3yMjz1HKSr"
@@ -131,11 +131,11 @@ Package:
                           id: hQloH6Jt57BlzRZ79TYn57DOVEwp
                           name: fillOpacity
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: QM363RLPr1RUe7tm0ShZHW8Di6CX
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "DigBKvZiZxX7XmDCZn&NbpQ3R0LA"
                               value: 1
                           type: "real_aZG&w6yl61bXVWutgeyScN9"
@@ -143,11 +143,11 @@ Package:
                           id: qxBw1dABAaVLwn9aMDugBr_DKcUw
                           name: strokeWidth
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: jCwWDdcSq9L6RSKD4_ttr1YK66ud
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "S3&eRnaSxtgNRNEnFFg&CsLrK0S4"
                               value: 1
                           type: "real_aZG&w6yl61bXVWutgeyScN9"
@@ -155,11 +155,11 @@ Package:
                           id: YqXvk_72eQqZXVSyCPtmsP3ODa77
                           name: strokeOpacity
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: VeSbUMYfFv6DnpXxyFwGovpF02dE
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: fDW1GPujcsN5g7xrzyCHvrlTWGJ2
                               value: 1
                           type: "real_aZG&w6yl61bXVWutgeyScN9"
@@ -167,11 +167,11 @@ Package:
                           id: "NYkt2MknTPucQye&lUJ8azpVG7tz"
                           name: strokeColor
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 4l__I4Cq7dv4Zj323DlAqrVijbSe
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: fIyIxxvpqGOdbefthS6V7NRMKmOi
                               value: 1
                           type: "&5o9ZnljHgKF9lt&AP3yMjz1HKSr"
@@ -183,7 +183,7 @@ Package:
                                 body: TODO Add Ordered non_unique
                           name: strokeDashLength
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 9nWY9j9Nx9XGdBW0bNjRXw0jmoYH
                               value: 0
                           upperValue:
@@ -195,11 +195,11 @@ Package:
                           id: "rtJY3Y_xHlDaIEUlKR&j4l_srM&r"
                           name: fontSize
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "WUH&hHSu5Y5cVepAg&fhbgpy3pAN"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: xo9CzOcYJ7kBVAJPw5yRvh_bqirC
                               value: 1
                           type: "real_aZG&w6yl61bXVWutgeyScN9"
@@ -207,11 +207,11 @@ Package:
                           id: 7fA04DJlqILYtcCZdjvBA7pWJ8w3
                           name: fontName
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: ikOEm0aeVwjlY8WAspaDOcL13QC4
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "5l0liJR3J9ziesg&oJCTVVkKMrE1"
                               value: 1
                           type: "string_L&R5eAEq6f3LUNtUmzHzT"
@@ -219,11 +219,11 @@ Package:
                           id: "n3M3hifEiEHDX2CQKEmlkZB&kia0"
                           name: fontColor
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "AgBZRZ1Cj9RPw&z_6mBM1xxhsJqz"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "7UPS99H&gIC67Q1ne01Yk9zi8Vxl"
                               value: 1
                           type: "&5o9ZnljHgKF9lt&AP3yMjz1HKSr"
@@ -231,11 +231,11 @@ Package:
                           id: jEOV9nKR5ky1EzXh4sppCqD5jpr7
                           name: fontItalic
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: VQIEonhSUaS0aBEK00pn_Zw4IRwG
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "1m&A&4o_tzndf&B1uwe9iwc3eanp"
                               value: 1
                           type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
@@ -243,11 +243,11 @@ Package:
                           id: PmFpjDTfqQ5cxM_tfGq1e_HmX5Vu
                           name: fontBold
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "2TrjiyVWJoKhKJfz8_iarC&jp2BY"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: a6oPIuORt172fSumFA9_18ZA5plP
                               value: 1
                           type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
@@ -255,11 +255,11 @@ Package:
                           id: t5AxUdqti1OrGmw9gJbfVp9aRdQl
                           name: fontUnderline
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: EHmyvrTLLXST952kfLCHqSJpiLke
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "qMZSM7MnC53alN1P5yQ&R6pVRBXa"
                               value: 1
                           type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
@@ -267,11 +267,11 @@ Package:
                           id: k38uERYqjx74HcQ7w6aKe5e99x27
                           name: fontStrikeThrough
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "YE3t3k&jo8&9ORmIdNbN5EmPmBJ5"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: nS9O9NuFhetyfv1fGrrHL6VxYwBl
                               value: 1
                           type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
@@ -297,7 +297,7 @@ Package:
                           id: IKA1tRlsZ6HY_empbuQiXG9IHv_R
                           name: modelElement
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "QROeLdAeKIKnP0VlU&e5Nq2amai6"
                               value: 0
                           upperValue:
@@ -309,11 +309,11 @@ Package:
                           id: gKpLJKf9u_PpyJ5T3VqjqD0Mt0oa
                           name: sharedStyle
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: fRygdk8LJwt3UsA_8WVZw9JlsOqf
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: splcMOtXKeyAt5dQmyEjikGIhn9M
                               value: 1
                           type: Jq6tOLJHyVZilh3qLtnYYmsHkSsS
@@ -322,11 +322,11 @@ Package:
                           id: "pRC&nYUTPsFa3FF8A7I4hc1upU&H"
                           name: localStyle
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 1PXQ1MQ8V8hv02uoYvwwU3VaPD6p
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: ObXXUJkFSGbYFW1axrw0O65z2sOU
                               value: 1
                           type: Jq6tOLJHyVZilh3qLtnYYmsHkSsS
@@ -335,11 +335,11 @@ Package:
                           id: "AS1O&HB89UHuO5mwEs&kmyStr8bC"
                           name: owningElement
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: qJy6UyEylE8QJeBAVGefweb8Q61A
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: FguJC3bdDLmNV21cHlb_7tZQb0mk
                               value: 1
                           type: JyJLXpOZyw01guSKghjxNcRxd8Zy
@@ -348,7 +348,7 @@ Package:
                           id: UMUZ4IGiaApjD5Okua3rlWzey_Gz
                           name: ownedElement
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: VjMBDrPl_iITaI_Ia_9BA1XFqdxx
                               value: 0
                           upperValue:
@@ -367,7 +367,7 @@ Package:
                           id: xLgQ2tF5wf0vqKffzgJrJL7HcWDZ
                           name: styledElement
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: FTfvrHCkJwcG8GCZDtwrMJpL2hqS
                               value: 0
                           upperValue:
@@ -396,11 +396,11 @@ Package:
                           id: KbKmDNU19SWMJwggKTQ9FrzAzozO
                           name: bounds
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: SYvwMMcgAUAtQIp4IBUIlwmIwaXn
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 26PICSpLU9WgwyzZS1pZ0Kpg4Zma
                               value: 1
                           type: GrSBY10MECO6g8EesG5ZdXVQ5m5B
@@ -418,7 +418,7 @@ Package:
                           isOrdered: true
                           isUnique: false
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: zRIx4yJYvOZT6NxqFbo1qk_k0EHp
                               value: 0
                           upperValue:
@@ -430,11 +430,11 @@ Package:
                           id: "nrLYcZPcYzpup2Owc97sYznNQ&bO"
                           name: target
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 53AesPd7PfukWJnVTxSWuJgNZwqS
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 85iT6nH1rf_AbzRUoZ6srxlaEwmP
                               value: 1
                           type: JyJLXpOZyw01guSKghjxNcRxd8Zy
@@ -443,11 +443,11 @@ Package:
                           id: "Iw3AexBp&2TB&w2ugEhu1MBCkw1R"
                           name: source
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: QPvlXHbCpHAfwvrEhkPy70jvHPF7
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: Q3HRYU9uYxL5gg3Esewrbzu0MLhI
                               value: 1
                           type: JyJLXpOZyw01guSKghjxNcRxd8Zy
@@ -468,11 +468,11 @@ Package:
                           id: "3&io9rgm9t1Vu9l8EEwU3QBNblgX"
                           name: owningElement
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 56iiGIcfZxhtNfIDVVPAlVt036jY
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: Bj2ZB2lqo1QdVp2IhGrtH1fMlCHG
                               value: 1
                           type: "pYBbzHRbiLs2Yh_lGpBkvzipf&D1"
@@ -483,7 +483,7 @@ Package:
                           id: xnI9Aiz3GaF91K8H7KAPe95oDgyE
                           name: modelElement
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "YID17KCB4yq&kEpaQqE3jpdIFtCm"
                               value: 0
                           upperValue:
@@ -497,7 +497,7 @@ Package:
                           id: rnm_zSDRk_kdPiWTfx6QZRkgUvFe
                           name: ownedElement
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: VyYl6DLQ5sUGhg4MmevA_8R97eGG
                               value: 0
                           upperValue:
@@ -567,11 +567,11 @@ Package:
                           id: Xxh7mjF9IMK0rhyrbSXOGA1_7vVo
                           name: source
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: kE3PxxULSdOQJ8nRVRW4n3_Z76bT
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: u4Aw_iH0ig2p9jOeS2LeGU5pUaNN
                               value: 1
                           type: "pYBbzHRbiLs2Yh_lGpBkvzipf&D1"
@@ -581,11 +581,11 @@ Package:
                           id: "R2flL_8p_&Zc7HP07QfAyUI7EtCg"
                           name: target
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: G_mHSfdkOs0U4pI54MjNsDVH8alS
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: SFAV73_STn2WXJsyclB4tW3_PDhw
                               value: 1
                           type: "pYBbzHRbiLs2Yh_lGpBkvzipf&D1"
@@ -615,7 +615,7 @@ Package:
                           id: Ji31E30RKG6dzSZjHLNwUiNQV9Sr
                           name: targetEdge
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: m1L2vbYZ9P8FtcdAk_IJoYIlSXTb
                               value: 0
                           upperValue:
@@ -649,7 +649,7 @@ Package:
                           id: "94EL1DpEJq&sqIIyUkljNkGiLErL"
                           name: compartment
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: ltNG0iVmufBlFHehjH7lZZKB0Iqw
                               value: 0
                           upperValue:
@@ -687,7 +687,7 @@ Package:
                           id: JKQnt95obbUHC5q023OY2r0vJ0cz
                           name: sourceEdge
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "v4hvNLW3f6kAI6wp2&YhLEnCYdn9"
                               value: 0
                           upperValue:
@@ -713,58 +713,58 @@ Package:
                           id: 7mT9JY5EGA4TDqjv0R0Ncd9x5OyU
                           name: isFrame
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: qwXwkWRd0f5PKca3jc72xZRlToCc
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: aSncIkIQq1TCDhDw2q6qx0Ld2Ipm
                               value: 1
                           type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
                           defaultValue:
-                            LiteralBool:
+                            LiteralBoolean:
                               id: ZCBL5t3hGNUX8T3PruoCMdAoQv4O
                               value: true
                       - Property:
                           id: 4phpVkyDwulQSgJPc6gX7mIVhSbE
                           name: isInheritedLighter
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: PUa934UdsSxST9ryBaAW6751IKde
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "Q52jyqdz8Js8nE7w3YcOx9k&4ZwG"
                               value: 1
                           type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
                           defaultValue:
-                            LiteralBool:
+                            LiteralBoolean:
                               id: 9_MbHCbNsE4O3RBfZdMXsx52bdGR
                       - Property:
                           id: "&DNyiZYBunaQcQexHq7OfqrZrEuU"
                           name: isIso
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: vSZWG4189Dzb1yrfF5esp2OMmK2s
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "7s0zsUIbOYgpD8HMK6BipYTed3&d"
                               value: 1
                           type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
                           defaultValue:
-                            LiteralBool:
+                            LiteralBoolean:
                               id: HQGzcSEN3IAU6dYW6vcChDwUTI3f
                               value: true
                       - Property:
                           id: jHSNDVVMy40lH6TTEOeTtGBnrZGv
                           name: heading
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "1yCV&8GOKjK4B9OGqUorQD1wK8Vr"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: HWQk6GMUs2iEQC2RgjXyNW0SWlOX
                               value: 1
                           type: urWpoxZVhva76RnwyRAhLgduprmm
@@ -787,11 +787,11 @@ Package:
                           id: "GJKibcaKH82QYL&Sm3&rX5Mlc8ps"
                           name: text
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 2DseOJW4r7YDHmVvtBqptm92mtwI
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "oTNU0gcASAg&H33Kq36hmRonWgyD"
                               value: 1
                           type: "string_L&R5eAEq6f3LUNtUmzHzT"
@@ -802,7 +802,7 @@ Package:
                           id: "N9xPgjmT&AB_Wnv94gtQKKzlEqkF"
                           name: " umlDiagramElement"
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: TamdIJP34FLJCTtRMwR1RCJIY5Zh
                               value: 0
                           upperValue:
@@ -838,21 +838,21 @@ Package:
                                 id: "aC&sdQv7i7zDikuRhssuhDj_zxBx"
                                 definingFeature: ECbPAnT7dFpInLzDizGZntbs1PsV
                                 values:
-                                  - LiteralInt:
+                                  - LiteralInteger:
                                       id: UOYPFeTEGPvpGf6gymN_HC_66__1
                                       value: 85
                             - Slot:
                                 id: "&woSj9f8hbt51OLbhD&8TAyQHvPm"
                                 definingFeature: "Q&WMvZLU_bjiutysDQgs_YHhvYZ5"
                                 values:
-                                  - LiteralInt:
+                                  - LiteralInteger:
                                       id: MQF3CYGhVCrkfrpCZ_VeEA2h4NKH
                                       value: 153
                             - Slot:
                                 id: c1sm_mrbQxwckLqfEID3TWCJamRl
                                 definingFeature: "VWl5zdNtgmkCDMkWQnbt&MMJKlA8"
                                 values:
-                                  - LiteralInt:
+                                  - LiteralInteger:
                                       id: "fq_UH8ot3_O_&lhTC3ibv&sw2V7T"
                                       value: 255
                       - InstanceSpecification:
@@ -865,21 +865,21 @@ Package:
                                 id: i7A9_oUhmZCSE82yLWLmWMEAH_P0
                                 definingFeature: "VWl5zdNtgmkCDMkWQnbt&MMJKlA8"
                                 values:
-                                  - LiteralInt:
+                                  - LiteralInteger:
                                       id: Om42Um_WUI6CvqgqnXCAT0MkJyIe
                                       value: 24
                             - Slot:
                                 id: ZFqWFBIjpuN5ChsxzpjOAVu4TFg9
                                 definingFeature: "Q&WMvZLU_bjiutysDQgs_YHhvYZ5"
                                 values:
-                                  - LiteralInt:
+                                  - LiteralInteger:
                                       id: "Op13rA9Us&fz9HMkvNRHJ1zjZxTa"
                                       value: 24
                             - Slot:
                                 id: Gm70gTn8niVadC1z78527GubcAis
                                 definingFeature: ECbPAnT7dFpInLzDizGZntbs1PsV
                                 values:
-                                  - LiteralInt:
+                                  - LiteralInteger:
                                       id: GvhYY5yEQtQFk1_O1zXRXOeUDO1F
                                       value: 24
                 - Extension:
@@ -902,11 +902,11 @@ Package:
                           id: "Ui4ikmeWG4d&PyRMsJqi2GC8rVnx"
                           name: modelElementID
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "6qx0D41W95Alzq&HIEd_RAHwXPic"
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "i2dvOXQp&PO7gRu10Bprz3yj&gny"
                               value: 1
                           type: "string_L&R5eAEq6f3LUNtUmzHzT"
@@ -939,7 +939,7 @@ Package:
                                 id: QNg2rMf2pPZpFmxbPsbuPI3DmW1q
                                 definingFeature: jEOV9nKR5ky1EzXh4sppCqD5jpr7
                                 values:
-                                  - LiteralBool:
+                                  - LiteralBoolean:
                                       id: "JQvh&AxCjzk_tNHC8j8Qe9pWjjh1"
                             - Slot:
                                 id: agG2kYLGmjWg9FQRGThTIcT3bwNg
@@ -952,7 +952,7 @@ Package:
                                 id: SGz9bcPRFDOvkm3b332nMR2ad9a4
                                 definingFeature: PmFpjDTfqQ5cxM_tfGq1e_HmX5Vu
                                 values:
-                                  - LiteralBool:
+                                  - LiteralBoolean:
                                       id: OslNSEvvy36rCswTxHc_9M0RsOUL
                             - Slot:
                                 id: "&98btS2LSfyJdAWNFqCPMk8Nm&wu"
@@ -993,7 +993,7 @@ Package:
                                 id: ggqX26ohwdYR77QHLfTKcF1f5QF5
                                 definingFeature: "Mxb7UR7LfoeOVnRvB43YquKjQJs&"
                                 values:
-                                  - LiteralInt:
+                                  - LiteralInteger:
                                       id: uv5X4NgcxBX7MHpKmTX4hllMhvEG
                                       value: 0
                             - Slot:
@@ -1007,13 +1007,13 @@ Package:
                                 id: rkPleAPC65t92gjehFKD5YEO2q3i
                                 definingFeature: t5AxUdqti1OrGmw9gJbfVp9aRdQl
                                 values:
-                                  - LiteralBool:
+                                  - LiteralBoolean:
                                       id: "8jiLotc&UZyWCmn0xe6Duunq6ToW"
                             - Slot:
                                 id: GwEfrFj9NZtvhzQsk2d0wIeX613R
                                 definingFeature: k38uERYqjx74HcQ7w6aKe5e99x27
                                 values:
-                                  - LiteralBool:
+                                  - LiteralBoolean:
                                       id: 72z1rawbDnYi64jMl8JWnyxuo1ux
                 - Stereotype:
                     id: O6KKRb5g0f2Aidq2B8j8RZqkDWzy
@@ -1036,11 +1036,11 @@ Package:
                           id: "Xh&oZ7bkwJS5STxu9hjYCO51xKnH"
                           name: classifierShapeStyle
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "nrC4JNchqe2KjtST0rgJxwlbu&it"
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: XQFXszsAQZsIEjYh6TLVHnGvAFHx
                               value: 1
                           type: Jq6tOLJHyVZilh3qLtnYYmsHkSsS
@@ -1060,11 +1060,11 @@ Package:
                           id: "YD_sE0re0ipuv&n4mLXKjHZbkwcy"
                           name: _stereotypedElement
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "sIM1nXbtNCm2SeNtKAzo&8mAub0N"
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "dq4&PBnhZdB5Mp37&Vh5nxaXktse"
                               value: 1
                           type: "&ve0WKXZ2Hn47xMl&Dl&lXPTMHD9"
@@ -1073,7 +1073,7 @@ Package:
                           id: "JmEur8&w1Xe0MJlqmRLQvbPegm73"
                           name: styles
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: qUTAVaWGt8LgWq83Au7ICuqbUGrO
                               value: 0
                           upperValue:
@@ -1093,11 +1093,11 @@ Package:
                           id: OaYzOYryv5lrW2YYkujnjL02rSlo
                           name: x
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: lqrvdxbRPA2O2liryMjM02A3JWbO
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 4Rl36gLyO9m6v72jZoAM67vqfiU7
                               value: 1
                           type: "real_aZG&w6yl61bXVWutgeyScN9"
@@ -1109,11 +1109,11 @@ Package:
                           id: "&TCEXx1uZQsa7g1KPT9ocVwNiwV7"
                           name: width
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 7UuUoIcu3GyvW6FnVXupkybJXCmQ
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: pMXKay77KXKBh5ugVeqJp5K2pf7S
                               value: 1
                           type: "real_aZG&w6yl61bXVWutgeyScN9"
@@ -1121,11 +1121,11 @@ Package:
                           id: RhD_fTVUMc4ceJ4topOlpaFPpoiB
                           name: y
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "o0e4L&hDfD9X78VigC5ZzXfzwZI2"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: QhidQOyP9wU8kqgBUNODZmn3n0R_
                               value: 1
                           type: "real_aZG&w6yl61bXVWutgeyScN9"
@@ -1137,11 +1137,11 @@ Package:
                           id: ELF54xP3DUMrFbgteAQkIXONqnlg
                           name: height
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "shCYmuMTOA6&3DifmQdblFqArbyv"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: GKZ6_JuqAdHiAbjBXaLDyKhfzLr_
                               value: 1
                           type: "real_aZG&w6yl61bXVWutgeyScN9"
@@ -1208,11 +1208,11 @@ Package:
                           id: 0TTKoNWbe13DJ3ou_1KhyS9sE1iU
                           name: x
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 7Nsur8jlwWswxeM0NrW6NZ3NDMGQ
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: eH01MOx3xPovALCGxjJ9IG5XCkYx
                               value: 1
                           type: "real_aZG&w6yl61bXVWutgeyScN9"
@@ -1224,11 +1224,11 @@ Package:
                           id: wecoFZpGF2kLOJ0sBneePO3nB47z
                           name: y
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "5ZC&sqnDGAbcou5p3IQdpX&fnzEm"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "bnYM4SX2bmSUkp&Oe7Qf92gtjdBf"
                               value: 1
                           type: "real_aZG&w6yl61bXVWutgeyScN9"
@@ -1257,11 +1257,11 @@ Package:
                           id: "&CObE4xQM1YdLUZvbwoyq2Uv7&75"
                           name: width
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: gZxOd_mcqWXHRizvyD_zrpmR2qzK
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "reeqWHnVl077Rm0s&yfuIthg3f1z"
                               value: 1
                           type: "real_aZG&w6yl61bXVWutgeyScN9"
@@ -1269,11 +1269,11 @@ Package:
                           id: 9WKxm1c9JrbPrVdUEVzZZA2IUxB6
                           name: height
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: eg5YkNDG7wrLnwSNu2iJ3h6c69Rh
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 66rlpCp7cWmdixtpwWj8zRka4jQA
                               value: 1
                           type: "real_aZG&w6yl61bXVWutgeyScN9"
@@ -1285,11 +1285,11 @@ Package:
                           id: "VWl5zdNtgmkCDMkWQnbt&MMJKlA8"
                           name: red
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: y4WQ2h6xHZwncbqlxcyFtNtX0Pz0
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: FT8hfwwB125d0Kaoorcq0G_Set9Z
                               value: 1
                           type: int_r9nNbBukx47IomXrT2raqtc4
@@ -1297,11 +1297,11 @@ Package:
                           id: "Q&WMvZLU_bjiutysDQgs_YHhvYZ5"
                           name: green
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 0GGQqLYXBCB4Q0uFmEmA1CmJKVgG
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 15xNk5KeyWys4DqIMLWByxelkkz6
                               value: 1
                           type: int_r9nNbBukx47IomXrT2raqtc4
@@ -1309,11 +1309,11 @@ Package:
                           id: ECbPAnT7dFpInLzDizGZntbs1PsV
                           name: blue
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "rBtk4V2R0smD&Cz6bNtSHGb7MWY_"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: gtphHOoFH098tznLYedgT0iAJKgX
                               value: 1
                           type: int_r9nNbBukx47IomXrT2raqtc4
@@ -1352,11 +1352,11 @@ Package:
                           id: PS7IdeknPVzfxqJ8OTgQzohKd7Rl
                           name: instance
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: QAnBxTJ7INeh31prFIbEgbjK0jSU
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "BAe9xYjtkwazGWW8w&_a&x4of_l7"
                               value: 1
                           type: 3jGx_iRKqVpRXsyRTC7Kddvjs1iB
@@ -1391,11 +1391,11 @@ Package:
                           id: M_u0KJZqq2ol7Qo4ewruqV2B_vcp
                           name: owningInstance
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: NmbdAUMRTBwf1xa9uYOhSnn_DQ0z
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 2eJynVVpzhS9IAmodwQuRyWDjRSR
                               value: 1
                           type: 3jGx_iRKqVpRXsyRTC7Kddvjs1iB
@@ -1406,11 +1406,11 @@ Package:
                           id: 4Z6EqaCMszp8Jm3pfJdLvLGpQaCY
                           name: definingFeature
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "63l8hJyPDT9W6w3x&go4Ks9WWxni"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: H3lVSa9U2JKR7P8rz9VYIZmYh1YL
                               value: 1
                           type: bkUfoeGEZRF52nRUXqshHTpVqFmX
@@ -1418,7 +1418,7 @@ Package:
                           id: jT301V4UEMD76BrZ7HPK9r3SaWhI
                           name: values
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "ulmzTUGrHEqAuA8frHwxrO&QNE6o"
                               value: 0
                           upperValue:
@@ -1445,11 +1445,11 @@ Package:
                           name: id
                           isUnique: false
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "uMcQIoJwZX9VIn8ko4AbOm&bnue1"
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 1yN9ZHPWSeCWTbIpndckiZcoEwU6
                               value: 1
                           type: "string_L&R5eAEq6f3LUNtUmzHzT"
@@ -1457,11 +1457,11 @@ Package:
                           id: XIKAlIqrt4NOzZBgAKzoXuLIH2DS
                           name: owner
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "ms8odyO9J&Ialb9_6e0DP6oO9Hkn"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 1vPYIN68ttzxci_vNBsvZ1LFuEsH
                               value: 1
                           type: XI35viryLd5YduwnSbWpxSs3npcu
@@ -1470,7 +1470,7 @@ Package:
                           id: GGrJHpnxeSMB14vyGKEhbbwa6iCR
                           name: appliedStereotypes
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 0_bbGnlKwy1PbQOLpGMGiF8fw_Gm
                               value: 0
                           upperValue:
@@ -1482,7 +1482,7 @@ Package:
                           id: d8boa7uurAj2JNoQMbCe69k89d1M
                           name: ownedComments
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: zgo_4AqErLzilQbsyWjFfKkeOW9v
                               value: 0
                           upperValue:
@@ -1496,7 +1496,7 @@ Package:
                           id: XtmmRpH294S3m9x9Bp8FT63LuCMl
                           name: ownedElements
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "wN&R0YB7yZ2HRQ&yL4SIKcu2AXEw"
                               value: 0
                           upperValue:
@@ -1521,7 +1521,7 @@ Package:
                           id: "cWJ3pzQMLpI56xhvmb33j&&1V_39"
                           name: subsettedProperties
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: lCbMzSKgYLJYIwHZ5dWk9B5VktZ1
                               value: 0
                           upperValue:
@@ -1533,7 +1533,7 @@ Package:
                           id: wD9hC3sTeNAcNyGh3RnW7SWIImL4
                           name: redefinedProperties
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: M6gYSKZj5jcXCIlNbf31RvSyWfGM
                               value: 0
                           upperValue:
@@ -1547,11 +1547,11 @@ Package:
                           id: pQ_GGmgHjaCJJWVEUPGaqJm938m9
                           name: defaultValue
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: nhHUxsSEGnlrF8LbwSKmvyDm_eHn
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "&OHA5Lyo3cXGcZzxVRkd70l0cM9x"
                               value: 1
                           aggregation: composite
@@ -1562,11 +1562,11 @@ Package:
                           id: 1p269YwWkH9HxehdVjQ9NBL_YVvR
                           name: class
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "uG&HHu6TpaoFadTPd&nyf9SXgL5E"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: RZzLiH456QmcWRRmCTHoOJ_8ejY0
                               value: 1
                           type: qyMDE1FPSey_RdXCjwifMXS70MiF
@@ -1578,11 +1578,11 @@ Package:
                           id: "1QgH6QgvtOGBrDU6WQy&UY9sQZ_4"
                           name: dataType
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: UH5Bwec4EJB95wpDx3rdzLk82XdN
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: JuLWfEXr40fofXDHl4YtGnSWAx0a
                               value: 1
                           type: "taZDRFlyHumZS94qEHGMIXWDi&pE"
@@ -1594,11 +1594,11 @@ Package:
                           id: gCWcKwE5Kw2AKY5znPDleBTp_Nid
                           name: association
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: zA6d3_1krTL2dSGsvZshd2BJZIes
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: FaJxzNAnDMPHASC8RSNIkDujcqjq
                               value: 1
                           type: thwOzkNWxyNS173nicaNAgtMOxdT
@@ -1607,11 +1607,11 @@ Package:
                           id: 2WwfKSv8p8cxwJNjCsUReaBSVvJJ
                           name: owningAssociation
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: gTmnhSYbOC7RMDFfvdFeDmExTEIM
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: _UWA8IQFXBmz9tp4iUV0xXvAKmDt
                               value: 1
                           type: thwOzkNWxyNS173nicaNAgtMOxdT
@@ -1633,7 +1633,7 @@ Package:
                           name: ownedAttributes
                           isOrdered: true
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "gTNw_uLO3S3Gdl&kSlLSLWEHxvwW"
                               value: 0
                           upperValue:
@@ -1660,11 +1660,11 @@ Package:
                           id: PL0LXBVcYZKI2s3zYLO4d_2R9_tV
                           name: owningPackage
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: b5IEWm2_6X065Cr3r2Kw3KHKKpz2
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "y5pQiD5bqXLFxrbTny&pzW70ggUR"
                               value: 1
                           type: "zvAhfu&WNCI1cNXd3BkqhxywHAYY"
@@ -1688,7 +1688,7 @@ Package:
                           id: "PKeMhq71InnxiqcJgmoWNe0Kl&1N"
                           name: slots
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: bE51Dc1pI7OEyybO0HLBU990s0Sv
                               value: 0
                           upperValue:
@@ -1704,7 +1704,7 @@ Package:
                           id: "YpZ9&oJJ6ovW5&6If5lTmik&RQQj"
                           name: classifiers
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: C1p1o_vTy8rcU17VnIkrw0HS8Z1D
                               value: 0
                           upperValue:
@@ -1716,11 +1716,11 @@ Package:
                           id: bRYJdS3KkJwyt9oSd_NV4FFhIfKE
                           name: specification
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: OSbhQXq7VuWoarF_sCFRbRWJmM3i
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "kAknemhHZAuKJIi9zXK_Kl&z3eas"
                               value: 1
                           aggregation: composite
@@ -1745,7 +1745,7 @@ Package:
                           id: "5pvS7Q1wlyZbihnK1eqOnOMLgLS&"
                           name: features
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 7cKiHxWsC58kXoXutEbNsoKky78l
                               value: 0
                           upperValue:
@@ -1758,7 +1758,7 @@ Package:
                           id: qFjM5899B6bmuxuplcin9csEUa_g
                           name: attributes
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: Zs8DnVp7KuOYgRIft0JGTJpHoXCC
                               value: 0
                           upperValue:
@@ -1772,7 +1772,7 @@ Package:
                           id: "xgmvbUmIrJ9jZG&HKOw0tOKhN9eS"
                           name: generalizations
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: mLAjfao4Um5Aeu5ucPqbEoIIIuac
                               value: 0
                           upperValue:
@@ -1802,7 +1802,7 @@ Package:
                           id: "y3jO9&br6vLo7t50PMinNTMu4wHv"
                           name: target
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: inplLfcFVq0tQNW57OEdoFHEmFpJ
                               value: 0
                           upperValue:
@@ -1814,7 +1814,7 @@ Package:
                           id: "_FHdhz9m77&6D0ezEAIz1wTHosuY"
                           name: source
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: aes3UyEnCVOEcn9mLXxn2jNr7rZg
                               value: 0
                           upperValue:
@@ -1834,11 +1834,11 @@ Package:
                           id: VL8ZmpG7YGf8VqW_H44oqD_R5Zll
                           name: enumeration
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "h&tieGqi6tspILtNrMPAwSIQkAKy"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: iunylvn4hRvVxGeWlVb4tMVuZv5t
                               value: 1
                           type: C4f1r16PLhBqvIYXPyqcs22lQZUw
@@ -1857,7 +1857,7 @@ Package:
                           id: ypBZodwaaRcE7gld4WuSbrsav39p
                           name: members
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: HL0Dsjl9zr_dtU_DIOrj8ZZXnkeE
                               value: 0
                           upperValue:
@@ -1869,7 +1869,7 @@ Package:
                           id: "RFhcUcft&ayqEN8IOPI1ftyO5gsx"
                           name: ownedMembers
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: UvScaZPytDUbbUuUhvYvNnAgP3N2
                               value: 0
                           upperValue:
@@ -1896,7 +1896,7 @@ Package:
                       - XjBtcuD1gdltfGHP3NqzlXg61zbh
                 - Class:
                     id: wI3M3uikz0z6QHpVNIJrta1ROmQc
-                    name: LiteralInt
+                    name: LiteralInteger
                     generalizations:
                       - Generalization:
                           id: qerXuMohrDMq7OsgF17vISupefWP
@@ -1913,11 +1913,11 @@ Package:
                           id: YrJ4n1R3EqvXEESg4y6KMeakK2EL
                           name: featuringClassifier
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "syTzo&294S0iD7so3B4X_sQx23V3"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: dYEXI3DORtP0Lk8DEiBcnXc9VOUd
                               value: 1
                           type: 13wa8TtmphWD1reWGwNUhyS0Rk9y
@@ -1965,11 +1965,11 @@ Package:
                           id: Uxf3ayap8ZKqATyFZDo2ImJqDW1F
                           name: type
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: NaABhpbqB2qBcV1UpBZwgqphjLVW
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: MPooARhO0qMAXxgnaWaZQqS2xRrr
                               value: 1
                           type: G9SsXu7xbMEGASAD0WV8izcwtBap
@@ -1988,7 +1988,7 @@ Package:
                           id: F628ncQKADxo6FLtAlDOdlJfewLy
                           name: packagedElements
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: ikeBZG9kusl38FQo8AqnSvCbIP2r
                               value: 0
                           upperValue:
@@ -2004,7 +2004,7 @@ Package:
                           id: f3emF_P7lUQCj92wICwZqIVIcw9E
                           name: ownedStereotypes
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: B1urUCBYo6yl26ZB2cRc3kCodDH8
                               value: 0
                           upperValue:
@@ -2050,11 +2050,11 @@ Package:
                           name: lowerValue
                           type: Qn4wyzpcn06v3cpAbR1QPvSqYrZ_
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: ed8mVNcwRH1EnhUfjxaCxtOVIBtU
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: qcpinft5wc65xY0zTtO2ENHboGKl
                               value: 1
                       - Property:
@@ -2062,11 +2062,11 @@ Package:
                           name: upperValue
                           type: Qn4wyzpcn06v3cpAbR1QPvSqYrZ_
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "TSwN50gKB8WU&6y2jAHtgFSz8bnl"
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "erUbQZRP6x4j&YzAN63LKXj28K&Z"
                               value: 1
                 - Class:
@@ -2088,7 +2088,7 @@ Package:
                           id: 0bbShzyDGBoiPzK0yL7mlNf74vTb
                           name: ownedLiterals
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "e6&edzSKBevaLAOdQpAQEwsTKNmY"
                               value: 0
                           upperValue:
@@ -2117,11 +2117,11 @@ Package:
                           id: "igEp5i15i4BoE&2swNhF6w84BF&I"
                           name: ownedEnd
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: YBh4feW93rc0B1eG5EMKbxydP_Do
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: vZAuiW6kF0IK3pBjLg4ZsHdvDPyc
                               value: 1
                           aggregation: composite
@@ -2143,7 +2143,7 @@ Package:
                           id: d8zBcyATDRBFGVmH5iDnhcPK75Az
                           name: memberEnds
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: p2ktTZG6mpq6XwyZPhYXM71BgYM2
                               value: 0
                           upperValue:
@@ -2158,7 +2158,7 @@ Package:
                           id: JlEgzt8KZtjezaH4EOmSR8Va1uJz
                           name: ownedEnds
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "&BR1u4ORAu43jZf06LPTIFqU1F2o"
                               value: 0
                           upperValue:
@@ -2176,7 +2176,7 @@ Package:
                           id: "5C0yj0wfSbiWvILuj8OS68&CqLJE"
                           name: navigableOwnedEnds
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "JZ8v&mkRUp0Gx_88bOKLV99Uwg2j"
                               value: 0
                           upperValue:
@@ -2199,11 +2199,11 @@ Package:
                           id: "wEgOiXpA9Tw&JquWlj4qO3&cWot9"
                           name: general
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: wmjYtEClh1bCC6nHC3jAncWgGhXO
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "aNM3OVj7gSLmba&KVxES8eiCxa1T"
                               value: 1
                           type: 13wa8TtmphWD1reWGwNUhyS0Rk9y
@@ -2213,11 +2213,11 @@ Package:
                           id: "jT&SRPuPxWJ0bJic11xKhaM87ghd"
                           name: specific
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: FUy8Nmyfjx7_z99wIzqbuAsF37Qv
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: doNRoSuELlKlBC4eX1JwjZuS2dZu
                               value: 1
                           type: 13wa8TtmphWD1reWGwNUhyS0Rk9y
@@ -2226,7 +2226,7 @@ Package:
                             - "_FHdhz9m77&6D0ezEAIz1wTHosuY"
                 - Class:
                     id: "7ixjcT51wpUzjtmV&oc93icC1X1w"
-                    name: LiteralBool
+                    name: LiteralBoolean
                     generalizations:
                       - Generalization:
                           id: QQ6WNHRjOGMPucJj7yKZNmWyAgbA
@@ -2250,11 +2250,11 @@ Package:
                           id: 2bqeQwbxvqiPN5EguSWTmLhFHc8s
                           name: profile
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: LJEiJBAPMAwwkrRYl2s39q8QYpwp
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: gndbZAKJWg4tm3ong0Rp2gB0bcty
                               value: 1
                           type: "SDtG5vVuoYtsaMKtqM&CcWxaXEKY"
@@ -2270,7 +2270,7 @@ Package:
                           id: LZ2gyp2q4IVggFXMhkbNe1bp24FI
                           name: annotatedElements
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "kHQOp_&ThP&vlDbn8O3Qz77fjU_t"
                               value: 0
                           upperValue:
@@ -2296,7 +2296,7 @@ Package:
                           name: ownedAttributes
                           isOrdered: true
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "2CxKvmRgqyMKdLBJmEZs3QSNk&cU"
                               value: 0
                           upperValue:
@@ -2313,7 +2313,7 @@ Package:
                           id: "k6BecMare3f49MVVcdCxtjU&EkN1"
                           name: roles
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "4eprLBb1ljT&beNwOYcqAcUI8ZE4"
                               value: 0
                           upperValue:
@@ -2327,7 +2327,7 @@ Package:
                           id: kD2EJ5rI0ejL7W1npwzC373Ws1ys
                           name: parts
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: oMxqBVEFxjAsduXGwzfHZijCfrLj
                               value: 0
                           upperValue:
@@ -2354,7 +2354,7 @@ Package:
                           id: "YRfW6j4vEoAIs5IZxAhzL&Xrfi4E"
                           name: ownedAttributes
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: pVz_hBbsd4G8vIe9DBcf2DDQmFe5
                               value: 0
                           upperValue:
@@ -2389,7 +2389,7 @@ Package:
                           id: "EZZ0a&j9jg_PEmjwEJvkTYzfAuKl"
                           name: relatedElements
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: ghMP3HzjJEfWHgiE76mVQ7OZWvk2
                               value: 0
                           upperValue:
@@ -2419,11 +2419,11 @@ Package:
                           id: OATEs8WJeyqHKy7Os_9aWi5HGCDU
                           name: name
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "ERcxVA17p6&QP5oVKGOPEnnMdS9_"
                               value: 1
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 2unsjsVqRV8Kee2BsKdgZBMkmWXH
                               value: 1
                           type: "string_L&R5eAEq6f3LUNtUmzHzT"
@@ -2431,11 +2431,11 @@ Package:
                           id: XjBtcuD1gdltfGHP3NqzlXg61zbh
                           name: namespace
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 1l9MQbgOyItgEYxHiTwowbojjvEy
                               value: 0
                           upperValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 6l3TPtyLL8pnd44c3plCRcyHpFbo
                               value: 1
                           type: pUg_kaODi6D0KMi6MXAJcMWMG3G_
@@ -2446,7 +2446,7 @@ Package:
                           id: KDgwtlUDTBZuGIAAed8D5blGk98f
                           name: clientDependencies
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "7g9vJhlCbylwjQzxkrDKcpJjo&ML"
                               value: 0
                           upperValue:
@@ -2470,7 +2470,7 @@ Package:
                           id: "NK0caSsNdziSo64RKhGUuv7Ev&Bn"
                           name: clients
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: 13llcnlPTBsODIcRgZStRUQHzPhe
                               value: 0
                           upperValue:
@@ -2483,7 +2483,7 @@ Package:
                           id: lcCuXfAev7UJtHr7eQDbYh7ldN7K
                           name: suppliers
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: Ow765wqwX7NPRit_YBzgvh9MGj8x
                               value: 0
                           upperValue:
@@ -2503,7 +2503,7 @@ Package:
                           id: "Z&YvjYeWesI&xJ_j5vHwiAtvZD_f"
                           name: redefinedElements
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: dAYy1wb7BGUYtKEQ7ZDjsXnhfvJn
                               value: 0
                           upperValue:
@@ -2515,7 +2515,7 @@ Package:
                           id: "kcSfJsip&b8_Eg2UWxLwb0MaR4sP"
                           name: redefinitionContext
                           lowerValue:
-                            LiteralInt:
+                            LiteralInteger:
                               id: "yi69byQ6s5eE3UDd6Wt9yXC&gDC8"
                               value: 0
                           upperValue:
