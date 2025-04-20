@@ -18,6 +18,18 @@
             cp umlStandard.yml $out
           '';
         };
+        uml-cafe-project-templates-v0_1_0 = pkgs.stdenvNoCC.mkDerivation {
+          src = pkgs.fetchFromGitHub {
+            owner = "nemears";
+            repo = "uml-cafe-project-templates";
+            rev = "v0.1.0";
+            hash = "sha256-RJ1cRKvHxqfZJjtirZVyWkCuXo6UQPbeQiInOXHvma4=";
+          };
+          name = "uml-cafe-project-templates-v0_1_0";
+          buildPhase = ''
+            cp $src/umlStandard.yml $out
+          '';
+        };
         default = self.packages.${system}.uml-cafe-project-templates;
       };
     });

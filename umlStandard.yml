@@ -4,35 +4,6 @@ uml:
     name: Model
     packagedElements:
       - Package:
-          id: YtPOIKBNW7KLXWz5DPHM9AQoz20u
-          appliedStereotypes:
-            - "AwffjUgtbEqMSmst0AR&8MqLBuo3"
-          name: _api
-          packagedElements:
-            - InstanceSpecification:
-                id: "e0jLYPl&T4rG4DD34MFxAfcouNBF"
-                classifiers:
-                  - vGgiqnpfTQ19Ke9IXiz6Gf8xbW2F
-                slots:
-                  - Slot:
-                      id: sXWjWVuUjvUFDU28AABS_Fzsq6p9
-                      definingFeature: "Ui4ikmeWG4d&PyRMsJqi2GC8rVnx"
-                      values:
-                        - LiteralString:
-                            id: ZLd2Gl1uFLqy6n0YpizM8pAbpKjH
-                            value: YtPOIKBNW7KLXWz5DPHM9AQoz20u
-            - InstanceSpecification:
-                id: "AwffjUgtbEqMSmst0AR&8MqLBuo3"
-                classifiers:
-                  - O6KKRb5g0f2Aidq2B8j8RZqkDWzy
-                slots:
-                  - Slot:
-                      id: 5mgNkWEHp3uzFZ6rRFnEObJ7ZLll
-                      definingFeature: JYhqenQvVau9F4xMMHxnJgscLAvv
-                      values:
-                        - InstanceValue:
-                            id: xKnM5MEX4YTfWtHC6dfu82FBYlmc
-      - Package:
           id: UML_r67OnwwyTHCtCmWnZsd8ePh5
           name: UML
           packagedElements:
@@ -2530,4 +2501,7 @@ uml:
                         - "5pvS7Q1wlyZbihnK1eqOnOMLgLS&"
                         - YrJ4n1R3EqvXEESg4y6KMeakK2EL
 meta_managers:
-  []
+  - uml_root: m3ixuPETCXTA2EgBYEEQP4nBGhoG
+    id: GTqD7Z5g3jooKGUet3GDSIN_2XVZ
+    data: 
+      []
