@@ -24,19 +24,19 @@ uml:
                             name: resolution
                             lowerValue:
                               LiteralInteger:
-                                id: "vPz&2oo5fcDnYA0y7Oc6wSeTeln9"
+                                id: vPz-2oo5fcDnYA0y7Oc6wSeTeln9
                                 value: 1
                             upperValue:
                               LiteralInteger:
-                                id: "Gupb&2wDfLEh4miy1e&w44rEkQCi"
+                                id: Gupb-2wDfLEh4miy1e-w44rEkQCi
                                 value: 1
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                             defaultValue:
                               LiteralReal:
                                 id: tX7demOnM8RhPl2vwCCOHNF7cwej
                                 value: 300.000000
                         - Property:
-                            id: "6CjufML0&O3S4cmtN2cL44BYr8HL"
+                            id: 6CjufML0-O3S4cmtN2cL44BYr8HL
                             name: documentation
                             lowerValue:
                               LiteralInteger:
@@ -46,40 +46,40 @@ uml:
                               LiteralInteger:
                                 id: YCXK_XIcbr8rbWGNcoyD8JegQ93E
                                 value: 1
-                            type: "string_L&R5eAEq6f3LUNtUmzHzT"
+                            type: string_L-R5eAEq6f3LUNtUmzHzT
                             defaultValue:
                               LiteralString:
-                                id: "4WCjMOvEBJ&E3eHqwowgFIei9KVy"
+                                id: 4WCjMOvEBJ-E3eHqwowgFIei9KVy
                         - Property:
                             id: CN7vzxOOpQJkGS964DTMuDWQkLlz
                             name: name
                             lowerValue:
                               LiteralInteger:
-                                id: "4sV_&79yAn8LCzK9bzMmtV_upesA"
+                                id: 4sV_-79yAn8LCzK9bzMmtV_upesA
                                 value: 1
                             upperValue:
                               LiteralInteger:
                                 id: LSxb_Y8GRR0nxeax9A3afJLrIwzg
                                 value: 1
-                            type: "string_L&R5eAEq6f3LUNtUmzHzT"
+                            type: string_L-R5eAEq6f3LUNtUmzHzT
                             defaultValue:
                               LiteralString:
                                 id: Hktrdlaic7zbv06OZSjOwKSipZJk
                   - Association:
                       id: GGXYlRByI1SXEXVa3xj8xfT1dwxj
                       memberEnds:
-                        - "pRC&nYUTPsFa3FF8A7I4hc1upU&H"
+                        - pRC-nYUTPsFa3FF8A7I4hc1upU-H
                       navigableOwnedEnds:
                         - Property:
                             id: oIynXarLxYM2tyxSo9RNJydH0772
                             name: styledElement
                             lowerValue:
                               LiteralInteger:
-                                id: "SUtZNJKYxkZiUzXS9&z7PdG1o38B"
+                                id: SUtZNJKYxkZiUzXS9-z7PdG1o38B
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "w5&LRh0e_PaHKGLULxNmsbiL84LU"
+                                id: w5-LRh0e_PaHKGLULxNmsbiL84LU
                                 value: 1
                             aggregation: composite
                             type: JyJLXpOZyw01guSKghjxNcRxd8Zy
@@ -88,17 +88,17 @@ uml:
                       name: Style
                       ownedAttributes:
                         - Property:
-                            id: "iCzFDMlcF8uiym&MT3CRG95BlCiZ"
+                            id: iCzFDMlcF8uiym-MT3CRG95BlCiZ
                             name: fillColor
                             lowerValue:
                               LiteralInteger:
-                                id: "BT2lem6OUGmOTu&QY3ypBdjsTj5s"
+                                id: BT2lem6OUGmOTu-QY3ypBdjsTj5s
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "PCsnXFxXITOVvfTlWXgIwafiy&c_"
+                                id: PCsnXFxXITOVvfTlWXgIwafiy-c_
                                 value: 1
-                            type: "&5o9ZnljHgKF9lt&AP3yMjz1HKSr"
+                            type: -5o9ZnljHgKF9lt-AP3yMjz1HKSr
                         - Property:
                             id: hQloH6Jt57BlzRZ79TYn57DOVEwp
                             name: fillOpacity
@@ -108,9 +108,9 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "DigBKvZiZxX7XmDCZn&NbpQ3R0LA"
+                                id: DigBKvZiZxX7XmDCZn-NbpQ3R0LA
                                 value: 1
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                         - Property:
                             id: qxBw1dABAaVLwn9aMDugBr_DKcUw
                             name: strokeWidth
@@ -120,9 +120,9 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "S3&eRnaSxtgNRNEnFFg&CsLrK0S4"
+                                id: S3-eRnaSxtgNRNEnFFg-CsLrK0S4
                                 value: 1
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                         - Property:
                             id: YqXvk_72eQqZXVSyCPtmsP3ODa77
                             name: strokeOpacity
@@ -134,9 +134,9 @@ uml:
                               LiteralInteger:
                                 id: fDW1GPujcsN5g7xrzyCHvrlTWGJ2
                                 value: 1
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                         - Property:
-                            id: "NYkt2MknTPucQye&lUJ8azpVG7tz"
+                            id: NYkt2MknTPucQye-lUJ8azpVG7tz
                             name: strokeColor
                             lowerValue:
                               LiteralInteger:
@@ -146,9 +146,9 @@ uml:
                               LiteralInteger:
                                 id: fIyIxxvpqGOdbefthS6V7NRMKmOi
                                 value: 1
-                            type: "&5o9ZnljHgKF9lt&AP3yMjz1HKSr"
+                            type: -5o9ZnljHgKF9lt-AP3yMjz1HKSr
                         - Property:
-                            id: "Mxb7UR7LfoeOVnRvB43YquKjQJs&"
+                            id: Mxb7UR7LfoeOVnRvB43YquKjQJs-
                             ownedComments:
                               - Comment:
                                   id: xHe0bHz2Zff4ju2i54UdK6p2Xhlh
@@ -162,19 +162,19 @@ uml:
                               LiteralUnlimitedNatural:
                                 id: HVzmaZlZiUC39cPFkaHUIyWYswnO
                                 value: "*"
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                         - Property:
-                            id: "rtJY3Y_xHlDaIEUlKR&j4l_srM&r"
+                            id: rtJY3Y_xHlDaIEUlKR-j4l_srM-r
                             name: fontSize
                             lowerValue:
                               LiteralInteger:
-                                id: "WUH&hHSu5Y5cVepAg&fhbgpy3pAN"
+                                id: WUH-hHSu5Y5cVepAg-fhbgpy3pAN
                                 value: 0
                             upperValue:
                               LiteralInteger:
                                 id: xo9CzOcYJ7kBVAJPw5yRvh_bqirC
                                 value: 1
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                         - Property:
                             id: 7fA04DJlqILYtcCZdjvBA7pWJ8w3
                             name: fontName
@@ -184,21 +184,21 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "5l0liJR3J9ziesg&oJCTVVkKMrE1"
+                                id: 5l0liJR3J9ziesg-oJCTVVkKMrE1
                                 value: 1
-                            type: "string_L&R5eAEq6f3LUNtUmzHzT"
+                            type: string_L-R5eAEq6f3LUNtUmzHzT
                         - Property:
-                            id: "n3M3hifEiEHDX2CQKEmlkZB&kia0"
+                            id: n3M3hifEiEHDX2CQKEmlkZB-kia0
                             name: fontColor
                             lowerValue:
                               LiteralInteger:
-                                id: "AgBZRZ1Cj9RPw&z_6mBM1xxhsJqz"
+                                id: AgBZRZ1Cj9RPw-z_6mBM1xxhsJqz
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "7UPS99H&gIC67Q1ne01Yk9zi8Vxl"
+                                id: 7UPS99H-gIC67Q1ne01Yk9zi8Vxl
                                 value: 1
-                            type: "&5o9ZnljHgKF9lt&AP3yMjz1HKSr"
+                            type: -5o9ZnljHgKF9lt-AP3yMjz1HKSr
                         - Property:
                             id: jEOV9nKR5ky1EzXh4sppCqD5jpr7
                             name: fontItalic
@@ -208,21 +208,21 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "1m&A&4o_tzndf&B1uwe9iwc3eanp"
+                                id: 1m-A-4o_tzndf-B1uwe9iwc3eanp
                                 value: 1
-                            type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
+                            type: bool_bzkcabSy3CiFd-HmJOtnVRK
                         - Property:
                             id: PmFpjDTfqQ5cxM_tfGq1e_HmX5Vu
                             name: fontBold
                             lowerValue:
                               LiteralInteger:
-                                id: "2TrjiyVWJoKhKJfz8_iarC&jp2BY"
+                                id: 2TrjiyVWJoKhKJfz8_iarC-jp2BY
                                 value: 0
                             upperValue:
                               LiteralInteger:
                                 id: a6oPIuORt172fSumFA9_18ZA5plP
                                 value: 1
-                            type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
+                            type: bool_bzkcabSy3CiFd-HmJOtnVRK
                         - Property:
                             id: t5AxUdqti1OrGmw9gJbfVp9aRdQl
                             name: fontUnderline
@@ -232,30 +232,30 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "qMZSM7MnC53alN1P5yQ&R6pVRBXa"
+                                id: qMZSM7MnC53alN1P5yQ-R6pVRBXa
                                 value: 1
-                            type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
+                            type: bool_bzkcabSy3CiFd-HmJOtnVRK
                         - Property:
                             id: k38uERYqjx74HcQ7w6aKe5e99x27
                             name: fontStrikeThrough
                             lowerValue:
                               LiteralInteger:
-                                id: "YE3t3k&jo8&9ORmIdNbN5EmPmBJ5"
+                                id: YE3t3k-jo8-9ORmIdNbN5EmPmBJ5
                                 value: 0
                             upperValue:
                               LiteralInteger:
                                 id: nS9O9NuFhetyfv1fGrrHL6VxYwBl
                                 value: 1
-                            type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
+                            type: bool_bzkcabSy3CiFd-HmJOtnVRK
                   - Association:
                       id: YgwX_EqbrRPJ4M9MXMJOQOu6WD4X
                       memberEnds:
                         - UMUZ4IGiaApjD5Okua3rlWzey_Gz
-                        - "AS1O&HB89UHuO5mwEs&kmyStr8bC"
+                        - AS1O-HB89UHuO5mwEs-kmyStr8bC
                   - Association:
                       id: K8iraOGl0udEMjN7dI_nY80bjWgf
                       memberEnds:
-                        - "Iw3AexBp&2TB&w2ugEhu1MBCkw1R"
+                        - Iw3AexBp-2TB-w2ugEhu1MBCkw1R
                       navigableOwnedEnds:
                         - Property:
                             id: VQWHXLVhXOXB7PDj8RNH40cUsMCi
@@ -270,7 +270,7 @@ uml:
                             name: modelElement
                             lowerValue:
                               LiteralInteger:
-                                id: "QROeLdAeKIKnP0VlU&e5Nq2amai6"
+                                id: QROeLdAeKIKnP0VlU-e5Nq2amai6
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
@@ -291,7 +291,7 @@ uml:
                             type: Jq6tOLJHyVZilh3qLtnYYmsHkSsS
                             association: lMDVxmUicvVlwEu86FLu6R07Zmme
                         - Property:
-                            id: "pRC&nYUTPsFa3FF8A7I4hc1upU&H"
+                            id: pRC-nYUTPsFa3FF8A7I4hc1upU-H
                             name: localStyle
                             lowerValue:
                               LiteralInteger:
@@ -304,7 +304,7 @@ uml:
                             type: Jq6tOLJHyVZilh3qLtnYYmsHkSsS
                             association: GGXYlRByI1SXEXVa3xj8xfT1dwxj
                         - Property:
-                            id: "AS1O&HB89UHuO5mwEs&kmyStr8bC"
+                            id: AS1O-HB89UHuO5mwEs-kmyStr8bC
                             name: owningElement
                             lowerValue:
                               LiteralInteger:
@@ -348,12 +348,12 @@ uml:
                                 value: "*"
                             type: JyJLXpOZyw01guSKghjxNcRxd8Zy
                   - Association:
-                      id: "Ya&UemdbrrJ6PoaRzKZ0NMNKfVCB"
+                      id: Ya-UemdbrrJ6PoaRzKZ0NMNKfVCB
                       memberEnds:
-                        - "nrLYcZPcYzpup2Owc97sYznNQ&bO"
+                        - nrLYcZPcYzpup2Owc97sYznNQ-bO
                       navigableOwnedEnds:
                         - Property:
-                            id: "GmBPq5Jg&Lv3gL0F8l1ZGjdzuvQ&"
+                            id: GmBPq5Jg-Lv3gL0F8l1ZGjdzuvQ-
                             name: targetEdge
                             type: km1lg5hn0M_a7vfwudun2ylfqkV3
                   - Class:
@@ -385,7 +385,7 @@ uml:
                             general: JyJLXpOZyw01guSKghjxNcRxd8Zy
                       ownedAttributes:
                         - Property:
-                            id: "Zf2K&k0k&jwaAz1GLsTSk7rN742p"
+                            id: Zf2K-k0k-jwaAz1GLsTSk7rN742p
                             name: waypoints
                             isOrdered: true
                             isUnique: false
@@ -395,11 +395,11 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "rniMl45yrWW&MwaoH5AowxrWSkTA"
+                                id: rniMl45yrWW-MwaoH5AowxrWSkTA
                                 value: "*"
                             type: iJOykGQ4z9anpcPG_cawroBzlZPL
                         - Property:
-                            id: "nrLYcZPcYzpup2Owc97sYznNQ&bO"
+                            id: nrLYcZPcYzpup2Owc97sYznNQ-bO
                             name: target
                             lowerValue:
                               LiteralInteger:
@@ -410,9 +410,9 @@ uml:
                                 id: 85iT6nH1rf_AbzRUoZ6srxlaEwmP
                                 value: 1
                             type: JyJLXpOZyw01guSKghjxNcRxd8Zy
-                            association: "Ya&UemdbrrJ6PoaRzKZ0NMNKfVCB"
+                            association: Ya-UemdbrrJ6PoaRzKZ0NMNKfVCB
                         - Property:
-                            id: "Iw3AexBp&2TB&w2ugEhu1MBCkw1R"
+                            id: Iw3AexBp-2TB-w2ugEhu1MBCkw1R
                             name: source
                             lowerValue:
                               LiteralInteger:
@@ -425,11 +425,11 @@ uml:
                             type: JyJLXpOZyw01guSKghjxNcRxd8Zy
                             association: K8iraOGl0udEMjN7dI_nY80bjWgf
             - Package:
-                id: "eG2Xwx&vouEkDctJcAiaCXLu8G5H"
+                id: eG2Xwx-vouEkDctJcAiaCXLu8G5H
                 name: UML DI
                 packagedElements:
                   - Class:
-                      id: "pYBbzHRbiLs2Yh_lGpBkvzipf&D1"
+                      id: pYBbzHRbiLs2Yh_lGpBkvzipf-D1
                       name: UMLDiagramElement
                       generalizations:
                         - Generalization:
@@ -437,7 +437,7 @@ uml:
                             general: JyJLXpOZyw01guSKghjxNcRxd8Zy
                       ownedAttributes:
                         - Property:
-                            id: "3&io9rgm9t1Vu9l8EEwU3QBNblgX"
+                            id: 3-io9rgm9t1Vu9l8EEwU3QBNblgX
                             name: owningElement
                             lowerValue:
                               LiteralInteger:
@@ -447,16 +447,16 @@ uml:
                               LiteralInteger:
                                 id: Bj2ZB2lqo1QdVp2IhGrtH1fMlCHG
                                 value: 1
-                            type: "pYBbzHRbiLs2Yh_lGpBkvzipf&D1"
-                            association: "&u7vcZfbaFjiNO4Yjnh4HWKvIbHA"
+                            type: pYBbzHRbiLs2Yh_lGpBkvzipf-D1
+                            association: -u7vcZfbaFjiNO4Yjnh4HWKvIbHA
                             redefinedProperties:
-                              - "AS1O&HB89UHuO5mwEs&kmyStr8bC"
+                              - AS1O-HB89UHuO5mwEs-kmyStr8bC
                         - Property:
                             id: xnI9Aiz3GaF91K8H7KAPe95oDgyE
                             name: modelElement
                             lowerValue:
                               LiteralInteger:
-                                id: "YID17KCB4yq&kEpaQqE3jpdIFtCm"
+                                id: YID17KCB4yq-kEpaQqE3jpdIFtCm
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
@@ -474,11 +474,11 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "6V&CxOayP_xVVhVyzD3ro4gbNlaf"
+                                id: 6V-CxOayP_xVVhVyzD3ro4gbNlaf
                                 value: "*"
                             aggregation: composite
-                            type: "pYBbzHRbiLs2Yh_lGpBkvzipf&D1"
-                            association: "&u7vcZfbaFjiNO4Yjnh4HWKvIbHA"
+                            type: pYBbzHRbiLs2Yh_lGpBkvzipf-D1
+                            association: -u7vcZfbaFjiNO4Yjnh4HWKvIbHA
                             redefinedProperties:
                               - UMUZ4IGiaApjD5Okua3rlWzey_Gz
                   - Class:
@@ -489,7 +489,7 @@ uml:
                             id: eAbtkIyIE7dTvFqm4hEnEAgB6Fmo
                             general: urWpoxZVhva76RnwyRAhLgduprmm
                   - Class:
-                      id: "zEjDYYrgzD&3EaysBzu0Gd362cVa"
+                      id: zEjDYYrgzD-3EaysBzu0Gd362cVa
                       name: UMLNameLabel
                       generalizations:
                         - Generalization:
@@ -500,30 +500,30 @@ uml:
                       name: UMLAssociationEndLabel
                       generalizations:
                         - Generalization:
-                            id: "6WVk5W8SPmk&Bsp_WObD&vIFDPS3"
+                            id: 6WVk5W8SPmk-Bsp_WObD-vIFDPS3
                             general: urWpoxZVhva76RnwyRAhLgduprmm
                   - Class:
                       id: wo_3tNGt_y2Y2sF5SMbdhetFimZ7
                       name: UMLRedefinesLabel
                       generalizations:
                         - Generalization:
-                            id: "1_kvflak5odnSu3C&FOiy70mDbBq"
+                            id: 1_kvflak5odnSu3C-FOiy70mDbBq
                             general: urWpoxZVhva76RnwyRAhLgduprmm
                   - Class:
                       id: 5pVpZ7MJzq5mysPkikGPT9kcvE10
                       name: UMLMultiplicityLabel
                       generalizations:
                         - Generalization:
-                            id: "50LE1tfrMW&gzweBt10JOe5y7noV"
+                            id: 50LE1tfrMW-gzweBt10JOe5y7noV
                             general: urWpoxZVhva76RnwyRAhLgduprmm
                   - Association:
                       id: TlePUX9kp1l5dwEuvasHrd3OPvNE
                       memberEnds:
-                        - "94EL1DpEJq&sqIIyUkljNkGiLErL"
+                        - 94EL1DpEJq-sqIIyUkljNkGiLErL
                       ownedEnds:
                         - Property:
                             id: hsMIqxNi8dYeJG5qCYUwJx8wdiED
-                            type: "z1DL0UzKw39EJh&SA5llseAEYgyd"
+                            type: z1DL0UzKw39EJh-SA5llseAEYgyd
                   - Class:
                       id: u2fIGW2nEDfMfVxqDvSmPd5e_wNR
                       name: UMLEdge
@@ -533,7 +533,7 @@ uml:
                             general: km1lg5hn0M_a7vfwudun2ylfqkV3
                         - Generalization:
                             id: NUyxpjFq87bfYfze24_ft0wV4g7K
-                            general: "pYBbzHRbiLs2Yh_lGpBkvzipf&D1"
+                            general: pYBbzHRbiLs2Yh_lGpBkvzipf-D1
                       ownedAttributes:
                         - Property:
                             id: Xxh7mjF9IMK0rhyrbSXOGA1_7vVo
@@ -546,11 +546,11 @@ uml:
                               LiteralInteger:
                                 id: u4Aw_iH0ig2p9jOeS2LeGU5pUaNN
                                 value: 1
-                            type: "pYBbzHRbiLs2Yh_lGpBkvzipf&D1"
+                            type: pYBbzHRbiLs2Yh_lGpBkvzipf-D1
                             redefinedProperties:
-                              - "Iw3AexBp&2TB&w2ugEhu1MBCkw1R"
+                              - Iw3AexBp-2TB-w2ugEhu1MBCkw1R
                         - Property:
-                            id: "R2flL_8p_&Zc7HP07QfAyUI7EtCg"
+                            id: R2flL_8p_-Zc7HP07QfAyUI7EtCg
                             name: target
                             lowerValue:
                               LiteralInteger:
@@ -560,28 +560,28 @@ uml:
                               LiteralInteger:
                                 id: SFAV73_STn2WXJsyclB4tW3_PDhw
                                 value: 1
-                            type: "pYBbzHRbiLs2Yh_lGpBkvzipf&D1"
+                            type: pYBbzHRbiLs2Yh_lGpBkvzipf-D1
                             association: Mw0hV5CqFLrTFIOUQ7xH4wC_LOAc
                             redefinedProperties:
-                              - "nrLYcZPcYzpup2Owc97sYznNQ&bO"
+                              - nrLYcZPcYzpup2Owc97sYznNQ-bO
                   - Class:
                       id: zuvWzHhzAPVLIKhJnrrOybrPpCyt
                       name: UMLStructureDiagram
                       generalizations:
                         - Generalization:
                             id: DgF0yEcy5SJXtasDB6cxdedHXJua
-                            general: "OSx5o09UW4iJJ6&KBdp&saG7LzNd"
+                            general: OSx5o09UW4iJJ6-KBdp-saG7LzNd
                   - Class:
-                      id: "OlOjWJGfJyejrDUQ&zPwT68unIFd"
+                      id: OlOjWJGfJyejrDUQ-zPwT68unIFd
                       name: UMLClassDiagram
                       generalizations:
                         - Generalization:
-                            id: "s&CA_9WiVObrWoWl7LoX9CuJo9rM"
+                            id: s-CA_9WiVObrWoWl7LoX9CuJo9rM
                             general: zuvWzHhzAPVLIKhJnrrOybrPpCyt
                   - Association:
                       id: Mw0hV5CqFLrTFIOUQ7xH4wC_LOAc
                       memberEnds:
-                        - "R2flL_8p_&Zc7HP07QfAyUI7EtCg"
+                        - R2flL_8p_-Zc7HP07QfAyUI7EtCg
                       ownedEnds:
                         - Property:
                             id: Ji31E30RKG6dzSZjHLNwUiNQV9Sr
@@ -596,7 +596,7 @@ uml:
                                 value: "*"
                             type: u2fIGW2nEDfMfVxqDvSmPd5e_wNR
                   - Class:
-                      id: "kY&kIIA_XPbHZrs73YN&uDcSAhuh"
+                      id: kY-kIIA_XPbHZrs73YN-uDcSAhuh
                       name: UMLTypedElementLabel
                       generalizations:
                         - Generalization:
@@ -610,15 +610,15 @@ uml:
                             id: I3_cY1b1mFWPtEGrAzL2aCvRkHVi
                             general: urWpoxZVhva76RnwyRAhLgduprmm
                   - Class:
-                      id: "z1DL0UzKw39EJh&SA5llseAEYgyd"
+                      id: z1DL0UzKw39EJh-SA5llseAEYgyd
                       name: UMLCompartmentableShape
                       generalizations:
                         - Generalization:
-                            id: "0hIxsp4T2N&wPpX5A8nwQmsAFI0D"
+                            id: 0hIxsp4T2N-wPpX5A8nwQmsAFI0D
                             general: KYV0Pg5b5r4KJ6qCA3_RAU2bWI4g
                       ownedAttributes:
                         - Property:
-                            id: "94EL1DpEJq&sqIIyUkljNkGiLErL"
+                            id: 94EL1DpEJq-sqIIyUkljNkGiLErL
                             name: compartment
                             lowerValue:
                               LiteralInteger:
@@ -629,38 +629,38 @@ uml:
                                 id: dqAPB864yxr0LmxBqoUxmWZBmGlp
                                 value: "*"
                             aggregation: composite
-                            type: "XEkIdyR4AD2A_BIxl8WN5ZrcRP0&"
+                            type: XEkIdyR4AD2A_BIxl8WN5ZrcRP0-
                             association: TlePUX9kp1l5dwEuvasHrd3OPvNE
                             subsettedProperties:
                               - rnm_zSDRk_kdPiWTfx6QZRkgUvFe
                   - Class:
-                      id: "XEkIdyR4AD2A_BIxl8WN5ZrcRP0&"
+                      id: XEkIdyR4AD2A_BIxl8WN5ZrcRP0-
                       name: UMLCompartment
                       generalizations:
                         - Generalization:
-                            id: "HkOpYETax0atiS5VhQQ&VI8IQZJv"
-                            general: "pYBbzHRbiLs2Yh_lGpBkvzipf&D1"
+                            id: HkOpYETax0atiS5VhQQ-VI8IQZJv
+                            general: pYBbzHRbiLs2Yh_lGpBkvzipf-D1
                   - Association:
-                      id: "&u7vcZfbaFjiNO4Yjnh4HWKvIbHA"
+                      id: -u7vcZfbaFjiNO4Yjnh4HWKvIbHA
                       memberEnds:
                         - rnm_zSDRk_kdPiWTfx6QZRkgUvFe
-                        - "3&io9rgm9t1Vu9l8EEwU3QBNblgX"
+                        - 3-io9rgm9t1Vu9l8EEwU3QBNblgX
                   - Class:
                       id: Z6TrdLUX1PnxDxERdehoiwuo4Thd
                       name: UMLClassifierShape
                       generalizations:
                         - Generalization:
                             id: RCwVHb5ksG3ELgh5S9K55pKk4I_j
-                            general: "z1DL0UzKw39EJh&SA5llseAEYgyd"
+                            general: z1DL0UzKw39EJh-SA5llseAEYgyd
                   - Association:
-                      id: "qPERxZCZS0b&NCDSEM8OS5C1YvHt"
+                      id: qPERxZCZS0b-NCDSEM8OS5C1YvHt
                       ownedEnds:
                         - Property:
                             id: JKQnt95obbUHC5q023OY2r0vJ0cz
                             name: sourceEdge
                             lowerValue:
                               LiteralInteger:
-                                id: "v4hvNLW3f6kAI6wp2&YhLEnCYdn9"
+                                id: v4hvNLW3f6kAI6wp2-YhLEnCYdn9
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
@@ -676,10 +676,10 @@ uml:
                             general: 4XJkzTWX7xcZHOxUppoC6gYQzTKF
                         - Generalization:
                             id: qtfQ8peWQmxUqhTeUy_u6iEuNe4R
-                            general: "&ve0WKXZ2Hn47xMl&Dl&lXPTMHD9"
+                            general: -ve0WKXZ2Hn47xMl-Dl-lXPTMHD9
                         - Generalization:
-                            id: "oGBaj&FLLbp2vDNvO_idi6kBr&lg"
-                            general: "pYBbzHRbiLs2Yh_lGpBkvzipf&D1"
+                            id: oGBaj-FLLbp2vDNvO_idi6kBr-lg
+                            general: pYBbzHRbiLs2Yh_lGpBkvzipf-D1
                       ownedAttributes:
                         - Property:
                             id: 7mT9JY5EGA4TDqjv0R0Ncd9x5OyU
@@ -692,7 +692,7 @@ uml:
                               LiteralInteger:
                                 id: aSncIkIQq1TCDhDw2q6qx0Ld2Ipm
                                 value: 1
-                            type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
+                            type: bool_bzkcabSy3CiFd-HmJOtnVRK
                             defaultValue:
                               LiteralBoolean:
                                 id: ZCBL5t3hGNUX8T3PruoCMdAoQv4O
@@ -706,14 +706,14 @@ uml:
                                 value: 1
                             upperValue:
                               LiteralInteger:
-                                id: "Q52jyqdz8Js8nE7w3YcOx9k&4ZwG"
+                                id: Q52jyqdz8Js8nE7w3YcOx9k-4ZwG
                                 value: 1
-                            type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
+                            type: bool_bzkcabSy3CiFd-HmJOtnVRK
                             defaultValue:
                               LiteralBoolean:
                                 id: 9_MbHCbNsE4O3RBfZdMXsx52bdGR
                         - Property:
-                            id: "&DNyiZYBunaQcQexHq7OfqrZrEuU"
+                            id: -DNyiZYBunaQcQexHq7OfqrZrEuU
                             name: isIso
                             lowerValue:
                               LiteralInteger:
@@ -721,9 +721,9 @@ uml:
                                 value: 1
                             upperValue:
                               LiteralInteger:
-                                id: "7s0zsUIbOYgpD8HMK6BipYTed3&d"
+                                id: 7s0zsUIbOYgpD8HMK6BipYTed3-d
                                 value: 1
-                            type: "bool_bzkcabSy3CiFd&HmJOtnVRK"
+                            type: bool_bzkcabSy3CiFd-HmJOtnVRK
                             defaultValue:
                               LiteralBoolean:
                                 id: HQGzcSEN3IAU6dYW6vcChDwUTI3f
@@ -733,7 +733,7 @@ uml:
                             name: heading
                             lowerValue:
                               LiteralInteger:
-                                id: "1yCV&8GOKjK4B9OGqUorQD1wK8Vr"
+                                id: 1yCV-8GOKjK4B9OGqUorQD1wK8Vr
                                 value: 0
                             upperValue:
                               LiteralInteger:
@@ -741,11 +741,11 @@ uml:
                                 value: 1
                             type: urWpoxZVhva76RnwyRAhLgduprmm
                   - Class:
-                      id: "OSx5o09UW4iJJ6&KBdp&saG7LzNd"
+                      id: OSx5o09UW4iJJ6-KBdp-saG7LzNd
                       name: UMLDiagramWithAssociations
                       generalizations:
                         - Generalization:
-                            id: "ZPcBnq&1WL3opZMykP6LpSETQSja"
+                            id: ZPcBnq-1WL3opZMykP6LpSETQSja
                             general: U3CQzJden20cL0mG0nQN_HuWfisB
                   - Class:
                       id: urWpoxZVhva76RnwyRAhLgduprmm
@@ -756,7 +756,7 @@ uml:
                             general: KYV0Pg5b5r4KJ6qCA3_RAU2bWI4g
                       ownedAttributes:
                         - Property:
-                            id: "GJKibcaKH82QYL&Sm3&rX5Mlc8ps"
+                            id: GJKibcaKH82QYL-Sm3-rX5Mlc8ps
                             name: text
                             lowerValue:
                               LiteralInteger:
@@ -764,14 +764,14 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "oTNU0gcASAg&H33Kq36hmRonWgyD"
+                                id: oTNU0gcASAg-H33Kq36hmRonWgyD
                                 value: 1
-                            type: "string_L&R5eAEq6f3LUNtUmzHzT"
+                            type: string_L-R5eAEq6f3LUNtUmzHzT
                   - Association:
-                      id: "Mvqml&gK_p8qeAZLpvQ&MH8IEaQA"
+                      id: Mvqml-gK_p8qeAZLpvQ-MH8IEaQA
                       navigableOwnedEnds:
                         - Property:
-                            id: "N9xPgjmT&AB_Wnv94gtQKKzlEqkF"
+                            id: N9xPgjmT-AB_Wnv94gtQKKzlEqkF
                             name: " umlDiagramElement"
                             lowerValue:
                               LiteralInteger:
@@ -781,7 +781,7 @@ uml:
                               LiteralUnlimitedNatural:
                                 id: gVrniSuOfeyZFlzb_OftfF5iPl7x
                                 value: "*"
-                            type: "pYBbzHRbiLs2Yh_lGpBkvzipf&D1"
+                            type: pYBbzHRbiLs2Yh_lGpBkvzipf-D1
                   - Class:
                       id: KYV0Pg5b5r4KJ6qCA3_RAU2bWI4g
                       name: UMLShape
@@ -791,7 +791,7 @@ uml:
                             general: Fj3BBa2Uf4XDwSp_gM46SFqGJdqy
                         - Generalization:
                             id: mwW3ms4LYy3HkxLCMTNmVEOX9uMG
-                            general: "pYBbzHRbiLs2Yh_lGpBkvzipf&D1"
+                            general: pYBbzHRbiLs2Yh_lGpBkvzipf-D1
             - Profile:
                 id: Standard_Profile_IlesiZnrVGR
                 name: uml-cafe-profile
@@ -804,48 +804,48 @@ uml:
                             id: I8qqezXzxBtd7VSnfci0NFcTzvCW
                             name: Orange
                             classifiers:
-                              - "&5o9ZnljHgKF9lt&AP3yMjz1HKSr"
+                              - -5o9ZnljHgKF9lt-AP3yMjz1HKSr
                             slots:
                               - Slot:
-                                  id: "aC&sdQv7i7zDikuRhssuhDj_zxBx"
+                                  id: aC-sdQv7i7zDikuRhssuhDj_zxBx
                                   definingFeature: ECbPAnT7dFpInLzDizGZntbs1PsV
                                   values:
                                     - LiteralInteger:
                                         id: UOYPFeTEGPvpGf6gymN_HC_66__1
                                         value: 85
                               - Slot:
-                                  id: "&woSj9f8hbt51OLbhD&8TAyQHvPm"
-                                  definingFeature: "Q&WMvZLU_bjiutysDQgs_YHhvYZ5"
+                                  id: -woSj9f8hbt51OLbhD-8TAyQHvPm
+                                  definingFeature: Q-WMvZLU_bjiutysDQgs_YHhvYZ5
                                   values:
                                     - LiteralInteger:
                                         id: MQF3CYGhVCrkfrpCZ_VeEA2h4NKH
                                         value: 153
                               - Slot:
                                   id: c1sm_mrbQxwckLqfEID3TWCJamRl
-                                  definingFeature: "VWl5zdNtgmkCDMkWQnbt&MMJKlA8"
+                                  definingFeature: VWl5zdNtgmkCDMkWQnbt-MMJKlA8
                                   values:
                                     - LiteralInteger:
-                                        id: "fq_UH8ot3_O_&lhTC3ibv&sw2V7T"
+                                        id: fq_UH8ot3_O_-lhTC3ibv-sw2V7T
                                         value: 255
                         - InstanceSpecification:
                             id: 4zANxTjBIygprPGe_w6omvuMp3K0
                             name: SoftBlack
                             classifiers:
-                              - "&5o9ZnljHgKF9lt&AP3yMjz1HKSr"
+                              - -5o9ZnljHgKF9lt-AP3yMjz1HKS"
                             slots:
                               - Slot:
                                   id: i7A9_oUhmZCSE82yLWLmWMEAH_P0
-                                  definingFeature: "VWl5zdNtgmkCDMkWQnbt&MMJKlA8"
+                                  definingFeature: VWl5zdNtgmkCDMkWQnbt-MMJKlA8
                                   values:
                                     - LiteralInteger:
                                         id: Om42Um_WUI6CvqgqnXCAT0MkJyIe
                                         value: 24
                               - Slot:
                                   id: ZFqWFBIjpuN5ChsxzpjOAVu4TFg9
-                                  definingFeature: "Q&WMvZLU_bjiutysDQgs_YHhvYZ5"
+                                  definingFeature: Q-WMvZLU_bjiutysDQgs_YHhvYZ5
                                   values:
                                     - LiteralInteger:
-                                        id: "Op13rA9Us&fz9HMkvNRHJ1zjZxTa"
+                                        id: Op13rA9Us-fz9HMkvNRHJ1zjZxTa
                                         value: 24
                               - Slot:
                                   id: Gm70gTn8niVadC1z78527GubcAis
@@ -855,12 +855,12 @@ uml:
                                         id: GvhYY5yEQtQFk1_O1zXRXOeUDO1F
                                         value: 24
                   - Extension:
-                      id: "CLUbrvbx1qIuFyoG1O&ULzByyPAP"
+                      id: CLUbrvbx1qIuFyoG1O-ULzByyPAP
                       memberEnds:
-                        - "YD_sE0re0ipuv&n4mLXKjHZbkwcy"
+                        - YD_sE0re0ipuv-n4mLXKjHZbkwcy
                       ownedEnd:
                         ExtensionEnd:
-                          id: "&sSE4laBvC8nVkvXWrGa3wrsD3dB"
+                          id: -sSE4laBvC8nVkvXWrGa3wrsD3dB
                           type: Diagram_nuc1IC2Cavgoa4zMBlVq
                   - Class:
                       id: vGgiqnpfTQ19Ke9IXiz6Gf8xbW2F
@@ -871,17 +871,17 @@ uml:
                             general: XI35viryLd5YduwnSbWpxSs3npcu
                       ownedAttributes:
                         - Property:
-                            id: "Ui4ikmeWG4d&PyRMsJqi2GC8rVnx"
+                            id: Ui4ikmeWG4d-PyRMsJqi2GC8rVnx
                             name: modelElementID
                             lowerValue:
                               LiteralInteger:
-                                id: "6qx0D41W95Alzq&HIEd_RAHwXPic"
+                                id: 6qx0D41W95Alzq-HIEd_RAHwXPic
                                 value: 1
                             upperValue:
                               LiteralInteger:
-                                id: "i2dvOXQp&PO7gRu10Bprz3yj&gny"
+                                id: i2dvOXQp-PO7gRu10Bprz3yj-gny
                                 value: 1
-                            type: "string_L&R5eAEq6f3LUNtUmzHzT"
+                            type: string_L-R5eAEq6f3LUNtUmzHzT
                   - Extension:
                       id: 7MXDF2mjQrOVBGJ7wacDsAoSUohI
                       memberEnds:
@@ -891,28 +891,28 @@ uml:
                           id: i9bGBsaPWs0jdJxgmxWlW4cGSzw1
                           type: O6KKRb5g0f2Aidq2B8j8RZqkDWzy
                   - Package:
-                      id: "2cjFymFqhJTErQ&Q1KjHScIgyO_t"
+                      id: 2cjFymFqhJTErQ-Q1KjHScIgyO_t
                       name: styles
                       packagedElements:
                         - InstanceSpecification:
-                            id: "ksIQauYlVcuNuyMf&ep37gOL2jYJ"
+                            id: ksIQauYlVcuNuyMf-ep37gOL2jYJ
                             name: ClassifierShapeStyle
                             classifiers:
                               - Jq6tOLJHyVZilh3qLtnYYmsHkSsS
                             slots:
                               - Slot:
                                   id: 6OMcJaZkx9VXInT0_co996kC5N_O
-                                  definingFeature: "iCzFDMlcF8uiym&MT3CRG95BlCiZ"
+                                  definingFeature: iCzFDMlcF8uiym-MT3CRG95BlCiZ
                                   values:
                                     - InstanceValue:
-                                        id: "ZTvfgKvCsUFUtrJIR&y&AkShTFUm"
+                                        id: ZTvfgKvCsUFUtrJIR-y-AkShTFUm
                                         instance: I8qqezXzxBtd7VSnfci0NFcTzvCW
                               - Slot:
                                   id: QNg2rMf2pPZpFmxbPsbuPI3DmW1q
                                   definingFeature: jEOV9nKR5ky1EzXh4sppCqD5jpr7
                                   values:
                                     - LiteralBoolean:
-                                        id: "JQvh&AxCjzk_tNHC8j8Qe9pWjjh1"
+                                        id: JQvh-AxCjzk_tNHC8j8Qe9pWjjh1
                               - Slot:
                                   id: agG2kYLGmjWg9FQRGThTIcT3bwNg
                                   definingFeature: hQloH6Jt57BlzRZ79TYn57DOVEwp
@@ -927,7 +927,7 @@ uml:
                                     - LiteralBoolean:
                                         id: OslNSEvvy36rCswTxHc_9M0RsOUL
                               - Slot:
-                                  id: "&98btS2LSfyJdAWNFqCPMk8Nm&wu"
+                                  id: -98btS2LSfyJdAWNFqCPMk8Nm-wu
                                   definingFeature: qxBw1dABAaVLwn9aMDugBr_DKcUw
                                   values:
                                     - LiteralReal:
@@ -938,39 +938,39 @@ uml:
                                   definingFeature: 7fA04DJlqILYtcCZdjvBA7pWJ8w3
                                   values:
                                     - LiteralString:
-                                        id: "E2ud70oy_an&C2GDXD81xEiPvtEu"
+                                        id: E2ud70oy_an-C2GDXD81xEiPvtEu
                                         value: Arial, sans-serif
                               - Slot:
-                                  id: "&OBEBUw3HiWBCcLKnpv4jvNLXmpP"
+                                  id: -OBEBUw3HiWBCcLKnpv4jvNLXmpP
                                   definingFeature: YqXvk_72eQqZXVSyCPtmsP3ODa77
                                   values:
                                     - LiteralReal:
-                                        id: "mC&SXNUEqsl0v82f5DhFgogTPknK"
+                                        id: mC-SXNUEqsl0v82f5DhFgogTPknK
                                         value: 1.000000
                               - Slot:
-                                  id: "nCoY&Ekt&bop&KRLzX0K_x&G_JjP"
-                                  definingFeature: "n3M3hifEiEHDX2CQKEmlkZB&kia0"
+                                  id: nCoY-Ekt-bop-KRLzX0K_x-G_JjP
+                                  definingFeature: n3M3hifEiEHDX2CQKEmlkZB-kia0
                                   values:
                                     - InstanceValue:
                                         id: iI3YmaDCE3Hr75preUtL27OPu_CL
                                         instance: 4zANxTjBIygprPGe_w6omvuMp3K0
                               - Slot:
                                   id: QTj8SvM86Qf61g15dhwql9rQhNIc
-                                  definingFeature: "NYkt2MknTPucQye&lUJ8azpVG7tz"
+                                  definingFeature: NYkt2MknTPucQye-lUJ8azpVG7tz
                                   values:
                                     - InstanceValue:
                                         id: VI3idC98_QdYH6Hobp1Be9Qk9_q6
                                         instance: 4zANxTjBIygprPGe_w6omvuMp3K0
                               - Slot:
                                   id: ggqX26ohwdYR77QHLfTKcF1f5QF5
-                                  definingFeature: "Mxb7UR7LfoeOVnRvB43YquKjQJs&"
+                                  definingFeature: Mxb7UR7LfoeOVnRvB43YquKjQJs-
                                   values:
                                     - LiteralInteger:
                                         id: uv5X4NgcxBX7MHpKmTX4hllMhvEG
                                         value: 0
                               - Slot:
                                   id: MbQ93mk_U03haFzMkcpr3I0GSEJP
-                                  definingFeature: "rtJY3Y_xHlDaIEUlKR&j4l_srM&r"
+                                  definingFeature: rtJY3Y_xHlDaIEUlKR-j4l_srM-r
                                   values:
                                     - LiteralReal:
                                         id: seD9YFO9X1T8JgxtnktxA_dbvuzj
@@ -980,7 +980,7 @@ uml:
                                   definingFeature: t5AxUdqti1OrGmw9gJbfVp9aRdQl
                                   values:
                                     - LiteralBoolean:
-                                        id: "8jiLotc&UZyWCmn0xe6Duunq6ToW"
+                                        id: 8jiLotc-UZyWCmn0xe6Duunq6ToW
                               - Slot:
                                   id: GwEfrFj9NZtvhzQsk2d0wIeX613R
                                   definingFeature: k38uERYqjx74HcQ7w6aKe5e99x27
@@ -1001,15 +1001,15 @@ uml:
                       name: ClassDiagram
                       generalizations:
                         - Generalization:
-                            id: "Zki0ljJZAAERe&BhGPMjT9_jOD2A"
+                            id: Zki0ljJZAAERe-BhGPMjT9_jOD2A
                             general: Diagram_nuc1IC2Cavgoa4zMBlVq
                       ownedAttributes:
                         - Property:
-                            id: "Xh&oZ7bkwJS5STxu9hjYCO51xKnH"
+                            id: Xh-oZ7bkwJS5STxu9hjYCO51xKnH
                             name: classifierShapeStyle
                             lowerValue:
                               LiteralInteger:
-                                id: "nrC4JNchqe2KjtST0rgJxwlbu&it"
+                                id: nrC4JNchqe2KjtST0rgJxwlbu-it
                                 value: 1
                             upperValue:
                               LiteralInteger:
@@ -1019,7 +1019,7 @@ uml:
                             defaultValue:
                               InstanceValue:
                                 id: oN6xm9vA37Iw9K1wXCuZjs_dbTn6
-                                instance: "ksIQauYlVcuNuyMf&ep37gOL2jYJ"
+                                instance: ksIQauYlVcuNuyMf-ep37gOL2jYJ
                   - Stereotype:
                       id: Diagram_nuc1IC2Cavgoa4zMBlVq
                       name: Diagram
@@ -1029,20 +1029,20 @@ uml:
                             general: U3CQzJden20cL0mG0nQN_HuWfisB
                       ownedAttributes:
                         - Property:
-                            id: "YD_sE0re0ipuv&n4mLXKjHZbkwcy"
+                            id: YD_sE0re0ipuv-n4mLXKjHZbkwcy
                             name: _stereotypedElement
                             lowerValue:
                               LiteralInteger:
-                                id: "sIM1nXbtNCm2SeNtKAzo&8mAub0N"
+                                id: sIM1nXbtNCm2SeNtKAzo-8mAub0N
                                 value: 1
                             upperValue:
                               LiteralInteger:
-                                id: "dq4&PBnhZdB5Mp37&Vh5nxaXktse"
+                                id: dq4-PBnhZdB5Mp37-Vh5nxaXktse
                                 value: 1
-                            type: "&ve0WKXZ2Hn47xMl&Dl&lXPTMHD9"
-                            association: "CLUbrvbx1qIuFyoG1O&ULzByyPAP"
+                            type: -ve0WKXZ2Hn47xMl-Dl-lXPTMHD9
+                            association: CLUbrvbx1qIuFyoG1O-ULzByyPAP
                         - Property:
-                            id: "JmEur8&w1Xe0MJlqmRLQvbPegm73"
+                            id: JmEur8-w1Xe0MJlqmRLQvbPegm73
                             name: styles
                             lowerValue:
                               LiteralInteger:
@@ -1072,13 +1072,13 @@ uml:
                               LiteralInteger:
                                 id: 4Rl36gLyO9m6v72jZoAM67vqfiU7
                                 value: 1
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                             defaultValue:
                               LiteralReal:
                                 id: 2jOLRQQZ5FT9E_eOt5ExMgi1bD2t
                                 value: 0.000000
                         - Property:
-                            id: "&TCEXx1uZQsa7g1KPT9ocVwNiwV7"
+                            id: -TCEXx1uZQsa7g1KPT9ocVwNiwV7
                             name: width
                             lowerValue:
                               LiteralInteger:
@@ -1088,19 +1088,19 @@ uml:
                               LiteralInteger:
                                 id: pMXKay77KXKBh5ugVeqJp5K2pf7S
                                 value: 1
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                         - Property:
                             id: RhD_fTVUMc4ceJ4topOlpaFPpoiB
                             name: y
                             lowerValue:
                               LiteralInteger:
-                                id: "o0e4L&hDfD9X78VigC5ZzXfzwZI2"
+                                id: o0e4L-hDfD9X78VigC5ZzXfzwZI2
                                 value: 0
                             upperValue:
                               LiteralInteger:
                                 id: QhidQOyP9wU8kqgBUNODZmn3n0R_
                                 value: 1
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                             defaultValue:
                               LiteralReal:
                                 id: CLslsQ2EmwpaGjQZ_EcMAugDHZF3
@@ -1110,19 +1110,19 @@ uml:
                             name: height
                             lowerValue:
                               LiteralInteger:
-                                id: "shCYmuMTOA6&3DifmQdblFqArbyv"
+                                id: shCYmuMTOA6-3DifmQdblFqArbyv
                                 value: 0
                             upperValue:
                               LiteralInteger:
                                 id: GKZ6_JuqAdHiAbjBXaLDyKhfzLr_
                                 value: 1
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                   - Enumeration:
-                      id: "iViTacxvZLjd4BuA&xvkzMcbhlTa"
+                      id: iViTacxvZLjd4BuA-xvkzMcbhlTa
                       name: KnownColor
                       ownedLiterals:
                         - EnumerationLiteral:
-                            id: "qo02HxWrhFmLkqQIqq&yCT9kKLEv"
+                            id: qo02HxWrhFmLkqQIqq-yCT9kKLEv
                             name: maroon
                         - EnumerationLiteral:
                             id: Mx9rRynC_DhgdxXHACoku4SrvY5_
@@ -1131,10 +1131,10 @@ uml:
                             id: syyFF1LBteBqrMySDaLUJ_MPabhX
                             name: orange
                         - EnumerationLiteral:
-                            id: "cHmqy&0hPTAp1pocKcCsWjpOxJBT"
+                            id: cHmqy-0hPTAp1pocKcCsWjpOxJBT
                             name: yellow
                         - EnumerationLiteral:
-                            id: "yYYWBfO4OLWkqSKigWCvL_9v&cie"
+                            id: yYYWBfO4OLWkqSKigWCvL_9v-cie
                             name: olive
                         - EnumerationLiteral:
                             id: Yq7gi27j_3fY2AtXHvuRqz55oN49
@@ -1143,7 +1143,7 @@ uml:
                             id: OPkBua8K2vqsv9RZ1DpNNpC5jxrU
                             name: fuchsia
                         - EnumerationLiteral:
-                            id: "jAbuTHGEj82&fD0Yk3y&JRwH64Nm"
+                            id: jAbuTHGEj82-fD0Yk3y-JRwH64Nm
                             name: white
                         - EnumerationLiteral:
                             id: 4SLW40BKPbayZToyFijOoSCJQYUn
@@ -1167,7 +1167,7 @@ uml:
                             id: 5_LZXvVNfOvwMN8tHrU2muG2d6Pq
                             name: black
                         - EnumerationLiteral:
-                            id: "H5VP8OfTNMV&mOXIwXbqDGwutrMm"
+                            id: H5VP8OfTNMV-mOXIwXbqDGwutrMm
                             name: silver
                         - EnumerationLiteral:
                             id: jbbR1PqdkNq6S7uwPJSmgU3Ljb51
@@ -1187,33 +1187,33 @@ uml:
                               LiteralInteger:
                                 id: eH01MOx3xPovALCGxjJ9IG5XCkYx
                                 value: 1
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                             defaultValue:
                               LiteralReal:
-                                id: "wN_gCV19XpHgH&f&S_k0zj48q&WF"
+                                id: wN_gCV19XpHgH-f-S_k0zj48q-WF
                                 value: 0.000000
                         - Property:
                             id: wecoFZpGF2kLOJ0sBneePO3nB47z
                             name: y
                             lowerValue:
                               LiteralInteger:
-                                id: "5ZC&sqnDGAbcou5p3IQdpX&fnzEm"
+                                id: 5ZC-sqnDGAbcou5p3IQdpX-fnzEm
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "bnYM4SX2bmSUkp&Oe7Qf92gtjdBf"
+                                id: bnYM4SX2bmSUkp-Oe7Qf92gtjdBf
                                 value: 1
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                             defaultValue:
                               LiteralReal:
-                                id: "cb&zACNvfXtAmwWdZ9N8kSFpBz6n"
+                                id: cb-zACNvfXtAmwWdZ9N8kSFpBz6n
                                 value: 0.000000
                   - Enumeration:
-                      id: "SxEDdlsOyBUiDufPGz5&5yPLKNw_"
+                      id: SxEDdlsOyBUiDufPGz5-5yPLKNw_
                       name: AlignmentKind
                       ownedLiterals:
                         - EnumerationLiteral:
-                            id: "kKR8K38TblSzT4UcD26bf4w&hK17"
+                            id: kKR8K38TblSzT4UcD26bf4w-hK17
                             name: start
                         - EnumerationLiteral:
                             id: TPNL0COKdQ5jgyEUkze8BngwpUTZ
@@ -1222,11 +1222,11 @@ uml:
                             id: pRpw0RNeqqYIRPLDifi_yGfKrfif
                             name: center
                   - DataType:
-                      id: "t3n5Hp40h6dcHIG9xGWAz&A3pcwU"
+                      id: t3n5Hp40h6dcHIG9xGWAz-A3pcwU
                       name: Dimension
                       ownedAttributes:
                         - Property:
-                            id: "&CObE4xQM1YdLUZvbwoyq2Uv7&75"
+                            id: -CObE4xQM1YdLUZvbwoyq2Uv7-75
                             name: width
                             lowerValue:
                               LiteralInteger:
@@ -1234,9 +1234,9 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "reeqWHnVl077Rm0s&yfuIthg3f1z"
+                                id: reeqWHnVl077Rm0s-yfuIthg3f1z
                                 value: 1
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                         - Property:
                             id: 9WKxm1c9JrbPrVdUEVzZZA2IUxB6
                             name: height
@@ -1248,13 +1248,13 @@ uml:
                               LiteralInteger:
                                 id: 66rlpCp7cWmdixtpwWj8zRka4jQA
                                 value: 1
-                            type: "real_aZG&w6yl61bXVWutgeyScN9"
+                            type: real_aZG-w6yl61bXVWutgeyScN9
                   - DataType:
-                      id: "&5o9ZnljHgKF9lt&AP3yMjz1HKSr"
+                      id: -5o9ZnljHgKF9lt-AP3yMjz1HKSr
                       name: Color
                       ownedAttributes:
                         - Property:
-                            id: "VWl5zdNtgmkCDMkWQnbt&MMJKlA8"
+                            id: VWl5zdNtgmkCDMkWQnbt-MMJKlA8
                             name: red
                             lowerValue:
                               LiteralInteger:
@@ -1266,7 +1266,7 @@ uml:
                                 value: 1
                             type: int_r9nNbBukx47IomXrT2raqtc4
                         - Property:
-                            id: "Q&WMvZLU_bjiutysDQgs_YHhvYZ5"
+                            id: Q-WMvZLU_bjiutysDQgs_YHhvYZ5
                             name: green
                             lowerValue:
                               LiteralInteger:
@@ -1282,7 +1282,7 @@ uml:
                             name: blue
                             lowerValue:
                               LiteralInteger:
-                                id: "rBtk4V2R0smD&Cz6bNtSHGb7MWY_"
+                                id: rBtk4V2R0smD-Cz6bNtSHGb7MWY_
                                 value: 0
                             upperValue:
                               LiteralInteger:
@@ -1300,13 +1300,13 @@ uml:
                       id: qlCO1PwnQkJ4kg7DLifFEs0OSv9e
                       name: UnlimitedNatural
                   - PrimitiveType:
-                      id: "string_L&R5eAEq6f3LUNtUmzHzT"
+                      id: string_L-R5eAEq6f3LUNtUmzHzT
                       name: String
                   - PrimitiveType:
-                      id: "bool_bzkcabSy3CiFd&HmJOtnVRK"
+                      id: bool_bzkcabSy3CiFd-HmJOtnVRK
                       name: Boolean
                   - PrimitiveType:
-                      id: "real_aZG&w6yl61bXVWutgeyScN9"
+                      id: real_aZG-w6yl61bXVWutgeyScN9
                       name: Real
             - Package:
                 id: y7LiHxyNJEQt9UaAj68FATLdgf18
@@ -1317,7 +1317,7 @@ uml:
                       name: InstanceValue
                       generalizations:
                         - Generalization:
-                            id: "HEfJpVWczMJ&rdSMtdqPAkVi8GOU"
+                            id: HEfJpVWczMJ-rdSMtdqPAkVi8GOU
                             general: Qn4wyzpcn06v3cpAbR1QPvSqYrZ_
                       ownedAttributes:
                         - Property:
@@ -1329,11 +1329,11 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "BAe9xYjtkwazGWW8w&_a&x4of_l7"
+                                id: BAe9xYjtkwazGWW8w-_a-x4of_l7
                                 value: 1
                             type: 3jGx_iRKqVpRXsyRTC7Kddvjs1iB
                   - Association:
-                      id: "1rkjpwU5cd51ZduLvSZsXpin&h5L"
+                      id: 1rkjpwU5cd51ZduLvSZsXpin-h5L
                       memberEnds:
                         - 0bbShzyDGBoiPzK0yL7mlNf74vTb
                         - VL8ZmpG7YGf8VqW_H44oqD_R5Zll
@@ -1342,7 +1342,7 @@ uml:
                       name: EncapsulatedClassifier
                       generalizations:
                         - Generalization:
-                            id: "adp7KzXAiHM4DRF28sgXyA&cZy4k"
+                            id: adp7KzXAiHM4DRF28sgXyA-cZy4k
                             general: 5nN3bNaJ9L8Z1ArCUolvqnyTO0jY
                   - Class:
                       id: GbrzuIyDPnXa86lVHBgbWGUKYfaE
@@ -1356,7 +1356,7 @@ uml:
                       name: Slot
                       generalizations:
                         - Generalization:
-                            id: "6BMkhDOtTLWw076g&XrpeR&6Wohe"
+                            id: 6BMkhDOtTLWw076g-XrpeR-6Wohe
                             general: XI35viryLd5YduwnSbWpxSs3npcu
                       ownedAttributes:
                         - Property:
@@ -1379,7 +1379,7 @@ uml:
                             name: definingFeature
                             lowerValue:
                               LiteralInteger:
-                                id: "63l8hJyPDT9W6w3x&go4Ks9WWxni"
+                                id: 63l8hJyPDT9W6w3x-go4Ks9WWxni
                                 value: 0
                             upperValue:
                               LiteralInteger:
@@ -1391,7 +1391,7 @@ uml:
                             name: values
                             lowerValue:
                               LiteralInteger:
-                                id: "ulmzTUGrHEqAuA8frHwxrO&QNE6o"
+                                id: ulmzTUGrHEqAuA8frHwxrO-QNE6o
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
@@ -1406,7 +1406,7 @@ uml:
                       name: ParameterableElement
                       generalizations:
                         - Generalization:
-                            id: "VEnShySB&YybvY90IZoZ_VckzFEL"
+                            id: VEnShySB-YybvY90IZoZ_VckzFEL
                             general: XI35viryLd5YduwnSbWpxSs3npcu
                   - Class:
                       id: XI35viryLd5YduwnSbWpxSs3npcu
@@ -1418,26 +1418,26 @@ uml:
                             isUnique: false
                             lowerValue:
                               LiteralInteger:
-                                id: "uMcQIoJwZX9VIn8ko4AbOm&bnue1"
+                                id: uMcQIoJwZX9VIn8ko4AbOm-bnue1
                                 value: 1
                             upperValue:
                               LiteralInteger:
                                 id: 1yN9ZHPWSeCWTbIpndckiZcoEwU6
                                 value: 1
-                            type: "string_L&R5eAEq6f3LUNtUmzHzT"
+                            type: string_L-R5eAEq6f3LUNtUmzHzT
                         - Property:
                             id: XIKAlIqrt4NOzZBgAKzoXuLIH2DS
                             name: owner
                             lowerValue:
                               LiteralInteger:
-                                id: "ms8odyO9J&Ialb9_6e0DP6oO9Hkn"
+                                id: ms8odyO9J-Ialb9_6e0DP6oO9Hkn
                                 value: 0
                             upperValue:
                               LiteralInteger:
                                 id: 1vPYIN68ttzxci_vNBsvZ1LFuEsH
                                 value: 1
                             type: XI35viryLd5YduwnSbWpxSs3npcu
-                            association: "uPGRISdrcKUpj1T&f4yoeXbZx_Qa"
+                            association: uPGRISdrcKUpj1T-f4yoeXbZx_Qa
                         - Property:
                             id: GGrJHpnxeSMB14vyGKEhbbwa6iCR
                             name: appliedStereotypes
@@ -1459,7 +1459,7 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "qSFUwdRKkldD21jXSNudYJWbwXP&"
+                                id: qSFUwdRKkldD21jXSNudYJWbwXP-
                                 value: "*"
                             type: zltysmxidp1ci2PhAz9mrG_GgVna
                             subsettedProperties:
@@ -1469,7 +1469,7 @@ uml:
                             name: ownedElements
                             lowerValue:
                               LiteralInteger:
-                                id: "wN&R0YB7yZ2HRQ&yL4SIKcu2AXEw"
+                                id: wN-R0YB7yZ2HRQ-yL4SIKcu2AXEw
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
@@ -1477,7 +1477,7 @@ uml:
                                 value: "*"
                             aggregation: composite
                             type: XI35viryLd5YduwnSbWpxSs3npcu
-                            association: "uPGRISdrcKUpj1T&f4yoeXbZx_Qa"
+                            association: uPGRISdrcKUpj1T-f4yoeXbZx_Qa
                   - Class:
                       id: 9On4aqWFEGwEw6rway7E_8_spRrc
                       name: Property
@@ -1490,7 +1490,7 @@ uml:
                             general: GbrzuIyDPnXa86lVHBgbWGUKYfaE
                       ownedAttributes:
                         - Property:
-                            id: "cWJ3pzQMLpI56xhvmb33j&&1V_39"
+                            id: cWJ3pzQMLpI56xhvmb33j--1V_39
                             name: subsettedProperties
                             lowerValue:
                               LiteralInteger:
@@ -1514,7 +1514,7 @@ uml:
                                 value: "*"
                             type: 9On4aqWFEGwEw6rway7E_8_spRrc
                             subsettedProperties:
-                              - "Z&YvjYeWesI&xJ_j5vHwiAtvZD_f"
+                              - Z-YvjYeWesI-xJ_j5vHwiAtvZD_f
                         - Property:
                             id: pQ_GGmgHjaCJJWVEUPGaqJm938m9
                             name: defaultValue
@@ -1524,7 +1524,7 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "&OHA5Lyo3cXGcZzxVRkd70l0cM9x"
+                                id: -OHA5Lyo3cXGcZzxVRkd70l0cM9x
                                 value: 1
                             aggregation: composite
                             type: Qn4wyzpcn06v3cpAbR1QPvSqYrZ_
@@ -1535,7 +1535,7 @@ uml:
                             name: class
                             lowerValue:
                               LiteralInteger:
-                                id: "uG&HHu6TpaoFadTPd&nyf9SXgL5E"
+                                id: uG-HHu6TpaoFadTPd-nyf9SXgL5E
                                 value: 0
                             upperValue:
                               LiteralInteger:
@@ -1547,7 +1547,7 @@ uml:
                               - YrJ4n1R3EqvXEESg4y6KMeakK2EL
                               - XjBtcuD1gdltfGHP3NqzlXg61zbh
                         - Property:
-                            id: "1QgH6QgvtOGBrDU6WQy&UY9sQZ_4"
+                            id: 1QgH6QgvtOGBrDU6WQy-UY9sQZ_4
                             name: dataType
                             lowerValue:
                               LiteralInteger:
@@ -1557,8 +1557,8 @@ uml:
                               LiteralInteger:
                                 id: JuLWfEXr40fofXDHl4YtGnSWAx0a
                                 value: 1
-                            type: "taZDRFlyHumZS94qEHGMIXWDi&pE"
-                            association: "wGe82Rkp&bOYJwmy0tJFVeZqcf05"
+                            type: taZDRFlyHumZS94qEHGMIXWDi-pE
+                            association: wGe82Rkp-bOYJwmy0tJFVeZqcf05
                             subsettedProperties:
                               - YrJ4n1R3EqvXEESg4y6KMeakK2EL
                               - XjBtcuD1gdltfGHP3NqzlXg61zbh
@@ -1587,7 +1587,7 @@ uml:
                                 id: _UWA8IQFXBmz9tp4iUV0xXvAKmDt
                                 value: 1
                             type: thwOzkNWxyNS173nicaNAgtMOxdT
-                            association: "TJmbacbuTTl1Ew2mNH&kJIoI1giV"
+                            association: TJmbacbuTTl1Ew2mNH-kJIoI1giV
                             subsettedProperties:
                               - XjBtcuD1gdltfGHP3NqzlXg61zbh
                               - YrJ4n1R3EqvXEESg4y6KMeakK2EL
@@ -1606,7 +1606,7 @@ uml:
                             isOrdered: true
                             lowerValue:
                               LiteralInteger:
-                                id: "gTNw_uLO3S3Gdl&kSlLSLWEHxvwW"
+                                id: gTNw_uLO3S3Gdl-kSlLSLWEHxvwW
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
@@ -1618,11 +1618,11 @@ uml:
                             redefinedProperties:
                               - WrQFN_WEBkkbwBshG76_qGRsh0Lm
                   - Class:
-                      id: "&ve0WKXZ2Hn47xMl&Dl&lXPTMHD9"
+                      id: -ve0WKXZ2Hn47xMl-Dl-lXPTMHD9
                       name: PackageableElement
                       generalizations:
                         - Generalization:
-                            id: "feIy&LrRjB4RegILZ4WEHtSvSJJJ"
+                            id: feIy-LrRjB4RegILZ4WEHtSvSJJJ
                             general: Ox30_bFSsGtPZorPYOkDTLeXquIN
                         - Generalization:
                             id: mlfg1_C4FSzawMRCcfQG2M1bY5q5
@@ -1637,14 +1637,14 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "y5pQiD5bqXLFxrbTny&pzW70ggUR"
+                                id: y5pQiD5bqXLFxrbTny-pzW70ggUR
                                 value: 1
-                            type: "zvAhfu&WNCI1cNXd3BkqhxywHAYY"
+                            type: zvAhfu-WNCI1cNXd3BkqhxywHAYY
                             association: WuUJNYs0MncycdCHZpfb6SrxMrBe
                             subsettedProperties:
                               - XjBtcuD1gdltfGHP3NqzlXg61zbh
                   - Association:
-                      id: "TJmbacbuTTl1Ew2mNH&kJIoI1giV"
+                      id: TJmbacbuTTl1Ew2mNH-kJIoI1giV
                       memberEnds:
                         - JlEgzt8KZtjezaH4EOmSR8Va1uJz
                         - 2WwfKSv8p8cxwJNjCsUReaBSVvJJ
@@ -1654,10 +1654,10 @@ uml:
                       generalizations:
                         - Generalization:
                             id: 47exi1CcMjBd7rr2IdjhfwTi9uno
-                            general: "&ve0WKXZ2Hn47xMl&Dl&lXPTMHD9"
+                            general: -ve0WKXZ2Hn47xMl-Dl-lXPTMHD9
                       ownedAttributes:
                         - Property:
-                            id: "PKeMhq71InnxiqcJgmoWNe0Kl&1N"
+                            id: PKeMhq71InnxiqcJgmoWNe0Kl-1N
                             name: slots
                             lowerValue:
                               LiteralInteger:
@@ -1665,7 +1665,7 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "qKvkWHUXlLwOxZkqJ&0wSuKPlBXh"
+                                id: qKvkWHUXlLwOxZkqJ-0wSuKPlBXh
                                 value: "*"
                             aggregation: composite
                             type: J2fEvc8IAzFjpPZqvms_gccefSfy
@@ -1673,7 +1673,7 @@ uml:
                             subsettedProperties:
                               - XtmmRpH294S3m9x9Bp8FT63LuCMl
                         - Property:
-                            id: "YpZ9&oJJ6ovW5&6If5lTmik&RQQj"
+                            id: YpZ9-oJJ6ovW5-6If5lTmik-RQQj
                             name: classifiers
                             lowerValue:
                               LiteralInteger:
@@ -1693,7 +1693,7 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "kAknemhHZAuKJIi9zXK_Kl&z3eas"
+                                id: kAknemhHZAuKJIi9zXK_Kl-z3eas
                                 value: 1
                             aggregation: composite
                             type: 5nN3bNaJ9L8Z1ArCUolvqnyTO0jY
@@ -1704,17 +1704,17 @@ uml:
                       name: Classifier
                       generalizations:
                         - Generalization:
-                            id: "dLmfQNj&fZPFKcE5IGvnagKlta2I"
+                            id: dLmfQNj-fZPFKcE5IGvnagKlta2I
                             general: yrjlltCbvz7t4VVSLU5d3cKO41Va
                         - Generalization:
-                            id: "px0JBgF3&lGwUWMa3VZDQKnkf1p5"
+                            id: px0JBgF3-lGwUWMa3VZDQKnkf1p5
                             general: pUg_kaODi6D0KMi6MXAJcMWMG3G_
                         - Generalization:
                             id: CwEXcX5KRHWpFoz1c2FjnCjlLGXc
                             general: G9SsXu7xbMEGASAD0WV8izcwtBap
                       ownedAttributes:
                         - Property:
-                            id: "5pvS7Q1wlyZbihnK1eqOnOMLgLS&"
+                            id: 5pvS7Q1wlyZbihnK1eqOnOMLgLS-
                             name: features
                             lowerValue:
                               LiteralInteger:
@@ -1724,7 +1724,7 @@ uml:
                               LiteralUnlimitedNatural:
                                 id: ACuYlYPJlGcBZ74kkGAWWgQSGFJ5
                                 value: "*"
-                            type: "P26npn&Eihvfc8wmGIJzB4XMbXDl"
+                            type: P26npn-Eihvfc8wmGIJzB4XMbXDl
                             association: uagoJLL2baeRUcjbP5Gxr3bp50uC
                         - Property:
                             id: qFjM5899B6bmuxuplcin9csEUa_g
@@ -1739,9 +1739,9 @@ uml:
                                 value: "*"
                             type: 9On4aqWFEGwEw6rway7E_8_spRrc
                             subsettedProperties:
-                              - "5pvS7Q1wlyZbihnK1eqOnOMLgLS&"
+                              - 5pvS7Q1wlyZbihnK1eqOnOMLgLS-
                         - Property:
-                            id: "xgmvbUmIrJ9jZG&HKOw0tOKhN9eS"
+                            id: xgmvbUmIrJ9jZG-HKOw0tOKhN9eS
                             name: generalizations
                             lowerValue:
                               LiteralInteger:
@@ -1749,7 +1749,7 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "Zc&pDPwAxY5VObp7W9aNSU05VAWH"
+                                id: Zc-pDPwAxY5VObp7W9aNSU05VAWH
                                 value: "*"
                             aggregation: composite
                             type: uprxxN9V5lyTmO3X4MxPjYU1LBLU
@@ -1771,7 +1771,7 @@ uml:
                             general: QUowokvKRwjZYrwmci655pJh1OeW
                       ownedAttributes:
                         - Property:
-                            id: "y3jO9&br6vLo7t50PMinNTMu4wHv"
+                            id: y3jO9-br6vLo7t50PMinNTMu4wHv
                             name: target
                             lowerValue:
                               LiteralInteger:
@@ -1783,7 +1783,7 @@ uml:
                                 value: "*"
                             type: XI35viryLd5YduwnSbWpxSs3npcu
                         - Property:
-                            id: "_FHdhz9m77&6D0ezEAIz1wTHosuY"
+                            id: _FHdhz9m77-6D0ezEAIz1wTHosuY
                             name: source
                             lowerValue:
                               LiteralInteger:
@@ -1791,7 +1791,7 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "FDuAomgZMN8_MAFEf5DZbfvVW&xu"
+                                id: FDuAomgZMN8_MAFEf5DZbfvVW-xu
                                 value: "*"
                             type: XI35viryLd5YduwnSbWpxSs3npcu
                   - Class:
@@ -1807,14 +1807,14 @@ uml:
                             name: enumeration
                             lowerValue:
                               LiteralInteger:
-                                id: "h&tieGqi6tspILtNrMPAwSIQkAKy"
+                                id: h-tieGqi6tspILtNrMPAwSIQkAKy
                                 value: 0
                             upperValue:
                               LiteralInteger:
                                 id: iunylvn4hRvVxGeWlVb4tMVuZv5t
                                 value: 1
                             type: C4f1r16PLhBqvIYXPyqcs22lQZUw
-                            association: "1rkjpwU5cd51ZduLvSZsXpin&h5L"
+                            association: 1rkjpwU5cd51ZduLvSZsXpin-h5L
                             subsettedProperties:
                               - XjBtcuD1gdltfGHP3NqzlXg61zbh
                   - Class:
@@ -1834,11 +1834,11 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "pNjn1D8z4&3gHkK8r5fPoVjjgo7Y"
+                                id: pNjn1D8z4-3gHkK8r5fPoVjjgo7Y
                                 value: "*"
                             type: Ox30_bFSsGtPZorPYOkDTLeXquIN
                         - Property:
-                            id: "RFhcUcft&ayqEN8IOPI1ftyO5gsx"
+                            id: RFhcUcft-ayqEN8IOPI1ftyO5gsx
                             name: ownedMembers
                             lowerValue:
                               LiteralInteger:
@@ -1846,11 +1846,11 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "2Qa_g9Wj&gjfbih5XfgsnUgH4SY3"
+                                id: 2Qa_g9Wj-gjfbih5XfgsnUgH4SY3
                                 value: "*"
                             aggregation: composite
                             type: Ox30_bFSsGtPZorPYOkDTLeXquIN
-                            association: "w5xgDo&D0i9q&Q9OTLOm2xuHeZak"
+                            association: w5xgDo-D0i9q-Q9OTLOm2xuHeZak
                             subsettedProperties:
                               - XtmmRpH294S3m9x9Bp8FT63LuCMl
                               - ypBZodwaaRcE7gld4WuSbrsav39p
@@ -1862,9 +1862,9 @@ uml:
                             id: KiHsQW2M1qdzExefNa8PNlzffBnn
                             general: wGvs2ha18hTJkgUJjn0QqIjtnmR3
                   - Association:
-                      id: "w5xgDo&D0i9q&Q9OTLOm2xuHeZak"
+                      id: w5xgDo-D0i9q-Q9OTLOm2xuHeZak
                       memberEnds:
-                        - "RFhcUcft&ayqEN8IOPI1ftyO5gsx"
+                        - RFhcUcft-ayqEN8IOPI1ftyO5gsx
                         - XjBtcuD1gdltfGHP3NqzlXg61zbh
                   - Class:
                       id: wI3M3uikz0z6QHpVNIJrta1ROmQc
@@ -1874,7 +1874,7 @@ uml:
                             id: qerXuMohrDMq7OsgF17vISupefWP
                             general: wGvs2ha18hTJkgUJjn0QqIjtnmR3
                   - Class:
-                      id: "P26npn&Eihvfc8wmGIJzB4XMbXDl"
+                      id: P26npn-Eihvfc8wmGIJzB4XMbXDl
                       name: Feature
                       generalizations:
                         - Generalization:
@@ -1886,7 +1886,7 @@ uml:
                             name: featuringClassifier
                             lowerValue:
                               LiteralInteger:
-                                id: "syTzo&294S0iD7so3B4X_sQx23V3"
+                                id: syTzo-294S0iD7so3B4X_sQx23V3
                                 value: 0
                             upperValue:
                               LiteralInteger:
@@ -1904,33 +1904,33 @@ uml:
                   - Association:
                       id: 0wMwNjPYkLwULKiLQFzNcE76cD7w
                       memberEnds:
-                        - "NK0caSsNdziSo64RKhGUuv7Ev&Bn"
+                        - NK0caSsNdziSo64RKhGUuv7Ev-Bn
                         - KDgwtlUDTBZuGIAAed8D5blGk98f
                   - Class:
-                      id: "ZHCpZ&iaDFbAF8_vU1_epYPWVGbq"
+                      id: ZHCpZ-iaDFbAF8_vU1_epYPWVGbq
                       name: LiteralReal
                       generalizations:
                         - Generalization:
-                            id: "n&UiQwnWe2Hs5CrfvDArFqu56qqO"
+                            id: n-UiQwnWe2Hs5CrfvDArFqu56qqO
                             general: wGvs2ha18hTJkgUJjn0QqIjtnmR3
                   - Association:
-                      id: "uPGRISdrcKUpj1T&f4yoeXbZx_Qa"
+                      id: uPGRISdrcKUpj1T-f4yoeXbZx_Qa
                       memberEnds:
                         - XIKAlIqrt4NOzZBgAKzoXuLIH2DS
                         - XtmmRpH294S3m9x9Bp8FT63LuCMl
                   - Class:
-                      id: "SDtG5vVuoYtsaMKtqM&CcWxaXEKY"
+                      id: SDtG5vVuoYtsaMKtqM-CcWxaXEKY
                       name: Profile
                       generalizations:
                         - Generalization:
                             id: pVOb1MVd50pjWyrkFFaa8yiMUQWt
-                            general: "zvAhfu&WNCI1cNXd3BkqhxywHAYY"
+                            general: zvAhfu-WNCI1cNXd3BkqhxywHAYY
                   - Class:
                       id: Lv5Oi488I7QTIk0BDJMxK4ckAf4R
                       name: TypedElement
                       generalizations:
                         - Generalization:
-                            id: "7kxkAxfDCGeqdgQj8qA&pP&JQNJY"
+                            id: 7kxkAxfDCGeqdgQj8qA-pP-JQNJY
                             general: Ox30_bFSsGtPZorPYOkDTLeXquIN
                       ownedAttributes:
                         - Property:
@@ -1946,12 +1946,12 @@ uml:
                                 value: 1
                             type: G9SsXu7xbMEGASAD0WV8izcwtBap
                   - Class:
-                      id: "zvAhfu&WNCI1cNXd3BkqhxywHAYY"
+                      id: zvAhfu-WNCI1cNXd3BkqhxywHAYY
                       name: Package
                       generalizations:
                         - Generalization:
                             id: U1xCmNP3v7MKoM6U6FEDR7Xa2ER4
-                            general: "&ve0WKXZ2Hn47xMl&Dl&lXPTMHD9"
+                            general: -ve0WKXZ2Hn47xMl-Dl-lXPTMHD9
                         - Generalization:
                             id: BpQab9_2LuOx0oD2VmzyxDdqwbZz
                             general: pUg_kaODi6D0KMi6MXAJcMWMG3G_
@@ -1965,13 +1965,13 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "xKG&f7E03AgnAkpXWKOQM6V0aGOA"
+                                id: xKG-f7E03AgnAkpXWKOQM6V0aGOA
                                 value: "*"
                             aggregation: composite
-                            type: "&ve0WKXZ2Hn47xMl&Dl&lXPTMHD9"
+                            type: -ve0WKXZ2Hn47xMl-Dl-lXPTMHD9
                             association: WuUJNYs0MncycdCHZpfb6SrxMrBe
                             subsettedProperties:
-                              - "RFhcUcft&ayqEN8IOPI1ftyO5gsx"
+                              - RFhcUcft-ayqEN8IOPI1ftyO5gsx
                         - Property:
                             id: f3emF_P7lUQCj92wICwZqIVIcw9E
                             name: ownedStereotypes
@@ -1981,10 +1981,10 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "YDKXySXZB61KhNHz&y3wIv5UepfC"
+                                id: YDKXySXZB61KhNHz-y3wIv5UepfC
                                 value: "*"
                             aggregation: composite
-                            type: "0XAr&hQb_xP_SNVNuo6Wybk7DY2y"
+                            type: 0XAr-hQb_xP_SNVNuo6Wybk7DY2y
                             subsettedProperties:
                               - F628ncQKADxo6FLtAlDOdlJfewLy
                   - Class:
@@ -1995,10 +1995,10 @@ uml:
                             id: T9pG6m35LX81G34dUXDzF5J3DCgw
                             general: wGvs2ha18hTJkgUJjn0QqIjtnmR3
                   - Association:
-                      id: "wGe82Rkp&bOYJwmy0tJFVeZqcf05"
+                      id: wGe82Rkp-bOYJwmy0tJFVeZqcf05
                       memberEnds:
-                        - "1QgH6QgvtOGBrDU6WQy&UY9sQZ_4"
-                        - "YRfW6j4vEoAIs5IZxAhzL&Xrfi4E"
+                        - 1QgH6QgvtOGBrDU6WQy-UY9sQZ_4
+                        - YRfW6j4vEoAIs5IZxAhzL-Xrfi4E
                   - Class:
                       id: bkUfoeGEZRF52nRUXqshHTpVqFmX
                       name: StructuralFeature
@@ -2008,7 +2008,7 @@ uml:
                             general: 2MX9sVvjWDKkGFCl6jSEYTeJfCgn
                         - Generalization:
                             id: vwUuk2dCHRaDQlliWgWTc40dePss
-                            general: "P26npn&Eihvfc8wmGIJzB4XMbXDl"
+                            general: P26npn-Eihvfc8wmGIJzB4XMbXDl
                   - Class:
                       id: 2MX9sVvjWDKkGFCl6jSEYTeJfCgn
                       name: MultiplicityElement
@@ -2035,11 +2035,11 @@ uml:
                             type: Qn4wyzpcn06v3cpAbR1QPvSqYrZ_
                             lowerValue:
                               LiteralInteger:
-                                id: "TSwN50gKB8WU&6y2jAHtgFSz8bnl"
+                                id: TSwN50gKB8WU-6y2jAHtgFSz8bnl
                                 value: 0
                             upperValue:
                               LiteralInteger:
-                                id: "erUbQZRP6x4j&YzAN63LKXj28K&Z"
+                                id: erUbQZRP6x4j-YzAN63LKXj28K-Z
                                 value: 1
                   - Class:
                       id: 20NUBfbj9jj4c3qH8Af2K0lZnbN4
@@ -2047,38 +2047,38 @@ uml:
                       generalizations:
                         - Generalization:
                             id: NT8xLhfu8Os2KUm5ErIsNuH8c0Ny
-                            general: "taZDRFlyHumZS94qEHGMIXWDi&pE"
+                            general: taZDRFlyHumZS94qEHGMIXWDi-pE
                   - Class:
                       id: C4f1r16PLhBqvIYXPyqcs22lQZUw
                       name: Enumeration
                       generalizations:
                         - Generalization:
                             id: SfwykMoMS9forjmj5PXpivRF5TuC
-                            general: "taZDRFlyHumZS94qEHGMIXWDi&pE"
+                            general: taZDRFlyHumZS94qEHGMIXWDi-pE
                       ownedAttributes:
                         - Property:
                             id: 0bbShzyDGBoiPzK0yL7mlNf74vTb
                             name: ownedLiterals
                             lowerValue:
                               LiteralInteger:
-                                id: "e6&edzSKBevaLAOdQpAQEwsTKNmY"
+                                id: e6-edzSKBevaLAOdQpAQEwsTKNmY
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "T0iUxQUozxlm49gscPTGCvmnMPf&"
+                                id: T0iUxQUozxlm49gscPTGCvmnMPf-
                                 value: "*"
                             aggregation: composite
                             type: 31iTIAGgHNByNnW0zvxM5AwXxsAl
-                            association: "1rkjpwU5cd51ZduLvSZsXpin&h5L"
+                            association: 1rkjpwU5cd51ZduLvSZsXpin-h5L
                             subsettedProperties:
-                              - "RFhcUcft&ayqEN8IOPI1ftyO5gsx"
+                              - RFhcUcft-ayqEN8IOPI1ftyO5gsx
                   - Association:
                       id: WuUJNYs0MncycdCHZpfb6SrxMrBe
                       memberEnds:
                         - PL0LXBVcYZKI2s3zYLO4d_2R9_tV
                         - F628ncQKADxo6FLtAlDOdlJfewLy
                   - Class:
-                      id: "hDFC8hvr&D7CQLrTE8tvipQ7tz_8"
+                      id: hDFC8hvr-D7CQLrTE8tvipQ7tz_8
                       name: Extension
                       generalizations:
                         - Generalization:
@@ -2086,7 +2086,7 @@ uml:
                             general: thwOzkNWxyNS173nicaNAgtMOxdT
                       ownedAttributes:
                         - Property:
-                            id: "igEp5i15i4BoE&2swNhF6w84BF&I"
+                            id: igEp5i15i4BoE-2swNhF6w84BF-I
                             name: ownedEnd
                             lowerValue:
                               LiteralInteger:
@@ -2131,7 +2131,7 @@ uml:
                             name: ownedEnds
                             lowerValue:
                               LiteralInteger:
-                                id: "&BR1u4ORAu43jZf06LPTIFqU1F2o"
+                                id: -BR1u4ORAu43jZf06LPTIFqU1F2o
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
@@ -2139,21 +2139,21 @@ uml:
                                 value: "*"
                             aggregation: composite
                             type: 9On4aqWFEGwEw6rway7E_8_spRrc
-                            association: "TJmbacbuTTl1Ew2mNH&kJIoI1giV"
+                            association: TJmbacbuTTl1Ew2mNH-kJIoI1giV
                             subsettedProperties:
                               - d8zBcyATDRBFGVmH5iDnhcPK75Az
-                              - "RFhcUcft&ayqEN8IOPI1ftyO5gsx"
-                              - "5pvS7Q1wlyZbihnK1eqOnOMLgLS&"
+                              - RFhcUcft-ayqEN8IOPI1ftyO5gsx
+                              - 5pvS7Q1wlyZbihnK1eqOnOMLgLS-
                         - Property:
-                            id: "5C0yj0wfSbiWvILuj8OS68&CqLJE"
+                            id: 5C0yj0wfSbiWvILuj8OS68-CqLJE
                             name: navigableOwnedEnds
                             lowerValue:
                               LiteralInteger:
-                                id: "JZ8v&mkRUp0Gx_88bOKLV99Uwg2j"
+                                id: JZ8v-mkRUp0Gx_88bOKLV99Uwg2j
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "CGupdjIOM6kuRbtzGe1rWZg&orKm"
+                                id: CGupdjIOM6kuRbtzGe1rWZg-orKm
                                 value: "*"
                             aggregation: composite
                             type: 9On4aqWFEGwEw6rway7E_8_spRrc
@@ -2168,7 +2168,7 @@ uml:
                             general: 6GWi2oAkBrSYm1ZjpmJprB_Fhirv
                       ownedAttributes:
                         - Property:
-                            id: "wEgOiXpA9Tw&JquWlj4qO3&cWot9"
+                            id: wEgOiXpA9Tw-JquWlj4qO3-cWot9
                             name: general
                             lowerValue:
                               LiteralInteger:
@@ -2176,13 +2176,13 @@ uml:
                                 value: 1
                             upperValue:
                               LiteralInteger:
-                                id: "aNM3OVj7gSLmba&KVxES8eiCxa1T"
+                                id: aNM3OVj7gSLmba-KVxES8eiCxa1T
                                 value: 1
                             type: 13wa8TtmphWD1reWGwNUhyS0Rk9y
                             subsettedProperties:
-                              - "y3jO9&br6vLo7t50PMinNTMu4wHv"
+                              - y3jO9-br6vLo7t50PMinNTMu4wHv
                         - Property:
-                            id: "jT&SRPuPxWJ0bJic11xKhaM87ghd"
+                            id: jT-SRPuPxWJ0bJic11xKhaM87ghd
                             name: specific
                             lowerValue:
                               LiteralInteger:
@@ -2195,9 +2195,9 @@ uml:
                             type: 13wa8TtmphWD1reWGwNUhyS0Rk9y
                             subsettedProperties:
                               - XIKAlIqrt4NOzZBgAKzoXuLIH2DS
-                              - "_FHdhz9m77&6D0ezEAIz1wTHosuY"
+                              - _FHdhz9m77-6D0ezEAIz1wTHosuY
                   - Class:
-                      id: "7ixjcT51wpUzjtmV&oc93icC1X1w"
+                      id: 7ixjcT51wpUzjtmV-oc93icC1X1w
                       name: LiteralBoolean
                       generalizations:
                         - Generalization:
@@ -2208,10 +2208,10 @@ uml:
                       name: LiteralString
                       generalizations:
                         - Generalization:
-                            id: "RiKdK&uUteUl0_IFWaeJLJ&lC5EK"
+                            id: RiKdK-uUteUl0_IFWaeJLJ-lC5EK
                             general: wGvs2ha18hTJkgUJjn0QqIjtnmR3
                   - Class:
-                      id: "0XAr&hQb_xP_SNVNuo6Wybk7DY2y"
+                      id: 0XAr-hQb_xP_SNVNuo6Wybk7DY2y
                       name: Stereotype
                       generalizations:
                         - Generalization:
@@ -2229,13 +2229,13 @@ uml:
                               LiteralInteger:
                                 id: gndbZAKJWg4tm3ong0Rp2gB0bcty
                                 value: 1
-                            type: "SDtG5vVuoYtsaMKtqM&CcWxaXEKY"
+                            type: SDtG5vVuoYtsaMKtqM-CcWxaXEKY
                   - Class:
                       id: zltysmxidp1ci2PhAz9mrG_GgVna
                       name: Comment
                       generalizations:
                         - Generalization:
-                            id: "fn4Bgab5BrS12d&qi_TQ4d3dCgB1"
+                            id: fn4Bgab5BrS12d-qi_TQ4d3dCgB1
                             general: XI35viryLd5YduwnSbWpxSs3npcu
                       ownedAttributes:
                         - Property:
@@ -2243,7 +2243,7 @@ uml:
                             name: annotatedElements
                             lowerValue:
                               LiteralInteger:
-                                id: "kHQOp_&ThP&vlDbn8O3Qz77fjU_t"
+                                id: kHQOp_-ThP-vlDbn8O3Qz77fjU_t
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
@@ -2253,7 +2253,7 @@ uml:
                   - Association:
                       id: lfULN6ooE3n4EU074NadimPOiZ0L
                       memberEnds:
-                        - "PKeMhq71InnxiqcJgmoWNe0Kl&1N"
+                        - PKeMhq71InnxiqcJgmoWNe0Kl-1N
                         - M_u0KJZqq2ol7Qo4ewruqV2B_vcp
                   - Class:
                       id: 5nN3bNaJ9L8Z1ArCUolvqnyTO0jY
@@ -2269,24 +2269,24 @@ uml:
                             isOrdered: true
                             lowerValue:
                               LiteralInteger:
-                                id: "2CxKvmRgqyMKdLBJmEZs3QSNk&cU"
+                                id: 2CxKvmRgqyMKdLBJmEZs3QSNk-cU
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "G3M_vGU2V1&CwWrQz8fyi5hZ6K_d"
+                                id: G3M_vGU2V1-CwWrQz8fyi5hZ6K_d
                                 value: "*"
                             aggregation: composite
                             type: 9On4aqWFEGwEw6rway7E_8_spRrc
                             subsettedProperties:
-                              - "k6BecMare3f49MVVcdCxtjU&EkN1"
-                              - "RFhcUcft&ayqEN8IOPI1ftyO5gsx"
+                              - k6BecMare3f49MVVcdCxtjU-EkN1
+                              - RFhcUcft-ayqEN8IOPI1ftyO5gsx
                               - qFjM5899B6bmuxuplcin9csEUa_g
                         - Property:
-                            id: "k6BecMare3f49MVVcdCxtjU&EkN1"
+                            id: k6BecMare3f49MVVcdCxtjU-EkN1
                             name: roles
                             lowerValue:
                               LiteralInteger:
-                                id: "4eprLBb1ljT&beNwOYcqAcUI8ZE4"
+                                id: 4eprLBb1ljT-beNwOYcqAcUI8ZE4
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
@@ -2312,10 +2312,10 @@ uml:
                       name: Type
                       generalizations:
                         - Generalization:
-                            id: "ueybEqdiK&9yIsMGcIwrnDuRySPn"
-                            general: "&ve0WKXZ2Hn47xMl&Dl&lXPTMHD9"
+                            id: ueybEqdiK-9yIsMGcIwrnDuRySPn
+                            general: -ve0WKXZ2Hn47xMl-Dl-lXPTMHD9
                   - Class:
-                      id: "taZDRFlyHumZS94qEHGMIXWDi&pE"
+                      id: taZDRFlyHumZS94qEHGMIXWDi-pE
                       name: DataType
                       generalizations:
                         - Generalization:
@@ -2323,7 +2323,7 @@ uml:
                             general: 13wa8TtmphWD1reWGwNUhyS0Rk9y
                       ownedAttributes:
                         - Property:
-                            id: "YRfW6j4vEoAIs5IZxAhzL&Xrfi4E"
+                            id: YRfW6j4vEoAIs5IZxAhzL-Xrfi4E
                             name: ownedAttributes
                             lowerValue:
                               LiteralInteger:
@@ -2335,10 +2335,10 @@ uml:
                                 value: "*"
                             aggregation: composite
                             type: 9On4aqWFEGwEw6rway7E_8_spRrc
-                            association: "wGe82Rkp&bOYJwmy0tJFVeZqcf05"
+                            association: wGe82Rkp-bOYJwmy0tJFVeZqcf05
                             subsettedProperties:
                               - qFjM5899B6bmuxuplcin9csEUa_g
-                              - "RFhcUcft&ayqEN8IOPI1ftyO5gsx"
+                              - RFhcUcft-ayqEN8IOPI1ftyO5gsx
                   - Association:
                       id: 2LtrimHQT2mOdmzlnEiytGKZZGwc
                       memberEnds:
@@ -2354,11 +2354,11 @@ uml:
                       name: Relationship
                       generalizations:
                         - Generalization:
-                            id: "7pXK2J0clyH5XFae6IRvS0RdqZ&y"
+                            id: 7pXK2J0clyH5XFae6IRvS0RdqZ-y
                             general: XI35viryLd5YduwnSbWpxSs3npcu
                       ownedAttributes:
                         - Property:
-                            id: "EZZ0a&j9jg_PEmjwEJvkTYzfAuKl"
+                            id: EZZ0a-j9jg_PEmjwEJvkTYzfAuKl
                             name: relatedElements
                             lowerValue:
                               LiteralInteger:
@@ -2366,7 +2366,7 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "9WEUhmmt7FzfzkMClg5ESml28&p5"
+                                id: 9WEUhmmt7FzfzkMClg5ESml28-p5
                                 value: "*"
                             type: XI35viryLd5YduwnSbWpxSs3npcu
                   - Class:
@@ -2374,11 +2374,11 @@ uml:
                       name: ValueSpecification
                       generalizations:
                         - Generalization:
-                            id: "1eAsxeMie9sTbKZm8snB&lhR1Kr&"
+                            id: 1eAsxeMie9sTbKZm8snB-lhR1Kr-
                             general: Lv5Oi488I7QTIk0BDJMxK4ckAf4R
                         - Generalization:
                             id: oWDbjpNtjc4nBnDE3dBlNa_55VRV
-                            general: "&ve0WKXZ2Hn47xMl&Dl&lXPTMHD9"
+                            general: -ve0WKXZ2Hn47xMl-Dl-lXPTMHD9
                   - Class:
                       id: Ox30_bFSsGtPZorPYOkDTLeXquIN
                       name: NamedElement
@@ -2392,13 +2392,13 @@ uml:
                             name: name
                             lowerValue:
                               LiteralInteger:
-                                id: "ERcxVA17p6&QP5oVKGOPEnnMdS9_"
+                                id: ERcxVA17p6-QP5oVKGOPEnnMdS9_
                                 value: 1
                             upperValue:
                               LiteralInteger:
                                 id: 2unsjsVqRV8Kee2BsKdgZBMkmWXH
                                 value: 1
-                            type: "string_L&R5eAEq6f3LUNtUmzHzT"
+                            type: string_L-R5eAEq6f3LUNtUmzHzT
                         - Property:
                             id: XjBtcuD1gdltfGHP3NqzlXg61zbh
                             name: namespace
@@ -2411,7 +2411,7 @@ uml:
                                 id: 6l3TPtyLL8pnd44c3plCRcyHpFbo
                                 value: 1
                             type: pUg_kaODi6D0KMi6MXAJcMWMG3G_
-                            association: "w5xgDo&D0i9q&Q9OTLOm2xuHeZak"
+                            association: w5xgDo-D0i9q-Q9OTLOm2xuHeZak
                             subsettedProperties:
                               - XIKAlIqrt4NOzZBgAKzoXuLIH2DS
                         - Property:
@@ -2419,27 +2419,27 @@ uml:
                             name: clientDependencies
                             lowerValue:
                               LiteralInteger:
-                                id: "7g9vJhlCbylwjQzxkrDKcpJjo&ML"
+                                id: 7g9vJhlCbylwjQzxkrDKcpJjo-ML
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "_enI4GJyrRnPGNM9hxCqMml&Q4XI"
+                                id: _enI4GJyrRnPGNM9hxCqMml-Q4XI
                                 value: "*"
-                            type: "SPwEe86n&OnH2AJBALFk7qNGzOLd"
+                            type: SPwEe86n-OnH2AJBALFk7qNGzOLd
                             association: 0wMwNjPYkLwULKiLQFzNcE76cD7w
                   - Class:
-                      id: "SPwEe86n&OnH2AJBALFk7qNGzOLd"
+                      id: SPwEe86n-OnH2AJBALFk7qNGzOLd
                       name: Dependency
                       generalizations:
                         - Generalization:
                             id: wKXcavjc5WaEgNvXkB1WIdP60mdH
-                            general: "&ve0WKXZ2Hn47xMl&Dl&lXPTMHD9"
+                            general: -ve0WKXZ2Hn47xMl-Dl-lXPTMHD9
                         - Generalization:
                             id: TL1HwisvAOT1HX_45hZqC8eVH8Ck
                             general: 6GWi2oAkBrSYm1ZjpmJprB_Fhirv
                       ownedAttributes:
                         - Property:
-                            id: "NK0caSsNdziSo64RKhGUuv7Ev&Bn"
+                            id: NK0caSsNdziSo64RKhGUuv7Ev-Bn
                             name: clients
                             lowerValue:
                               LiteralInteger:
@@ -2447,7 +2447,7 @@ uml:
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "srLIRZo773lQPR&5_jTTplv9OvAO"
+                                id: srLIRZo773lQPR-5_jTTplv9OvAO
                                 value: "*"
                             type: Ox30_bFSsGtPZorPYOkDTLeXquIN
                             association: 0wMwNjPYkLwULKiLQFzNcE76cD7w
@@ -2472,7 +2472,7 @@ uml:
                             general: Ox30_bFSsGtPZorPYOkDTLeXquIN
                       ownedAttributes:
                         - Property:
-                            id: "Z&YvjYeWesI&xJ_j5vHwiAtvZD_f"
+                            id: Z-YvjYeWesI-xJ_j5vHwiAtvZD_f
                             name: redefinedElements
                             lowerValue:
                               LiteralInteger:
@@ -2484,21 +2484,21 @@ uml:
                                 value: "*"
                             type: yrjlltCbvz7t4VVSLU5d3cKO41Va
                         - Property:
-                            id: "kcSfJsip&b8_Eg2UWxLwb0MaR4sP"
+                            id: kcSfJsip-b8_Eg2UWxLwb0MaR4sP"
                             name: redefinitionContext
                             lowerValue:
                               LiteralInteger:
-                                id: "yi69byQ6s5eE3UDd6Wt9yXC&gDC8"
+                                id: yi69byQ6s5eE3UDd6Wt9yXC-gDC8
                                 value: 0
                             upperValue:
                               LiteralUnlimitedNatural:
-                                id: "zQzL8YJkT5Th&23yyoFQaUiVB8z3"
+                                id: zQzL8YJkT5Th-23yyoFQaUiVB8z3
                                 value: "*"
                             type: 13wa8TtmphWD1reWGwNUhyS0Rk9y
                   - Association:
                       id: uagoJLL2baeRUcjbP5Gxr3bp50uC
                       memberEnds:
-                        - "5pvS7Q1wlyZbihnK1eqOnOMLgLS&"
+                        - 5pvS7Q1wlyZbihnK1eqOnOMLgLS-
                         - YrJ4n1R3EqvXEESg4y6KMeakK2EL
 meta_managers:
   - uml_root: m3ixuPETCXTA2EgBYEEQP4nBGhoG
