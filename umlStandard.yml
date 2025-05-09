@@ -831,7 +831,7 @@ uml:
                             id: 4zANxTjBIygprPGe_w6omvuMp3K0
                             name: SoftBlack
                             classifiers:
-                              - -5o9ZnljHgKF9lt-AP3yMjz1HKS"
+                              - -5o9ZnljHgKF9lt-AP3yMjz1HKSr
                             slots:
                               - Slot:
                                   id: i7A9_oUhmZCSE82yLWLmWMEAH_P0
@@ -2484,7 +2484,7 @@ uml:
                                 value: "*"
                             type: yrjlltCbvz7t4VVSLU5d3cKO41Va
                         - Property:
-                            id: kcSfJsip-b8_Eg2UWxLwb0MaR4sP"
+                            id: kcSfJsip-b8_Eg2UWxLwb0MaR4sP
                             name: redefinitionContext
                             lowerValue:
                               LiteralInteger:
