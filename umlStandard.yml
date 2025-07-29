@@ -965,7 +965,7 @@ uml:
                                   id: ggqX26ohwdYR77QHLfTKcF1f5QF5
                                   definingFeature: Mxb7UR7LfoeOVnRvB43YquKjQJs-
                                   values:
-                                    - LiteralInteger:
+                                    - LiteralReal:
                                         id: uv5X4NgcxBX7MHpKmTX4hllMhvEG
                                         value: 0
                               - Slot:
